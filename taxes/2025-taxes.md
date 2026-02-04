@@ -65,8 +65,6 @@ Personal
 
 
 
-
-
 32pixels
 
 * Bank transactions
@@ -85,10 +83,6 @@ North Carolina
 
 * Your SubmissionID is
 * Your Client ID is
-
-
-
-
 
 
 
