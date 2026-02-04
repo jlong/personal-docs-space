@@ -1,0 +1,5 @@
+name: Personal
+createdAt: '2026-02-02T03:43:32Z'
+projects:
+- name: Taxes
+  path: taxes
