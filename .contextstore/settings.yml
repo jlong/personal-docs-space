@@ -3,3 +3,7 @@ createdAt: '2026-02-02T03:43:32Z'
 projects:
 - name: Taxes
   path: taxes
+github:
+  owner: jlong
+  name: personal-docs-space
+  cloneURL: https://github.com/jlong/personal-docs-space.git
