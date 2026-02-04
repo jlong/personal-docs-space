@@ -1,7 +1,5 @@
 # **2025 Taxes**
 
-
-
 Download
 
 * Wells Fargo
