@@ -7,3 +7,4 @@ github:
   owner: jlong
   name: personal-docs-space
   cloneURL: https://github.com/jlong/personal-docs-space.git
+syncMode: auto
