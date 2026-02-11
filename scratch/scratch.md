@@ -2,4 +2,4 @@
 
 Just a test!
 
-* \[] asdfasdf
+* [ ] Asdfasdf
