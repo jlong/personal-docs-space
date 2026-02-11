@@ -2,8 +2,8 @@
 
 This is interesting
 
-* [ ] Apples
-* [ ] Oranges
+* [x] Apples
+* [x] Oranges
 * [ ] Banannas
 
 # &#x20;
