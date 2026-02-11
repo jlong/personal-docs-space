@@ -2,5 +2,6 @@
 
 Just a test!
 
-* [ ] Asdfasdf
+* [x] Asdfasdf
 * [ ] Hello
+* [ ] This is a task
