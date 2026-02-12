@@ -6,4 +6,3 @@ This is cool
 - [x] Oranges
 - [ ] Bananas
 
-# 
