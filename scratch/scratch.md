@@ -2,6 +2,6 @@
 
 This is cool
 
-- [x] Apples
-- [x] Oranges
+- [ ] Apples
+- [ ] Oranges
 - [ ] Bananas
