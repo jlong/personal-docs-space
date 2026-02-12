@@ -1,9 +1,9 @@
 # Scratch
 
-This is interesting
+This is cool
 
 - [x] Apples
 - [x] Oranges
-- [ ] Banannas
+- [ ] Bananas
 
-# &#x20;
+# 
