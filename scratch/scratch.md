@@ -4,4 +4,4 @@ This is cool
 
 - [ ] Apples
 - [ ] Oranges
-- [ ] Bananas!
+- [ ] Bananas
