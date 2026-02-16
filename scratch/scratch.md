@@ -1,5 +1,7 @@
 # Scratch
 
-- [ ] This one
-- [ ] That one
-- [ ] Another one!
+This is cool
+
+- [ ] Apples
+- [ ] Oranges
+- [ ] Bananas!
