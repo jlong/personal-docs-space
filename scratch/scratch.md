@@ -2,6 +2,6 @@
 
 This is cool, too
 
-- [ ] Apples
+- [ ] Cherries
 - [ ] Oranges
 - [ ] Bananas
