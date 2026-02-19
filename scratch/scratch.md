@@ -2,6 +2,6 @@
 
 This is cool
 
-- [ ] Strawberries & cream
+- [ ] Strawberries&#x20;
 - [ ] Oranges
 - [ ] Bananas
