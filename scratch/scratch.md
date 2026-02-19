@@ -1,7 +1,9 @@
 # Scratch
 
-This is cool, too
+This is cool, too!
 
 - [ ] Cherries
+
 - [ ] Oranges
+
 - [ ] Bananas
