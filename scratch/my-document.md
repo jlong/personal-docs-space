@@ -1,3 +1,3 @@
 # My document
 
-Other stuff!
+Other stuff is cool!
