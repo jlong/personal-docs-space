@@ -2,8 +2,6 @@
 
 This is cool, too!
 
-- [ ] Cherries
-
-- [ ] Oranges
-
-- [ ] Bananas
+- [ ] Cherrios
+- [ ] Fruit Loops
+- [ ] Cinamon Toast Crunch
