@@ -2,6 +2,4 @@
 
 Other stuff is cool! Even more text here.
 
-Another line.
-
-And more here!
+With more content below.
