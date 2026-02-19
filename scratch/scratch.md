@@ -1,7 +1,7 @@
 # Scratch
 
-This is cool
+This is cool, too
 
-- [ ] Strawberries & cream
+- [ ] Strawberries&#x20;
 - [ ] Oranges
 - [ ] Bananas
