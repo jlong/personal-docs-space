@@ -4,4 +4,4 @@
 
 - [ ] Orange  Cream
 
-- [ ] Banana  Cream
+- [ ] Strawberry Banana  Cream
