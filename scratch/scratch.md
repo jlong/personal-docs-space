@@ -4,4 +4,4 @@
 
 - [ ] Orange Ice Cream
 
-- [ ] Banana Ice Cream
+- [ ] Strawberry Banana Ice Cream
