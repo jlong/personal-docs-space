@@ -1,7 +1,9 @@
 # Scratch
 
-- [ ] Apples
-
 - [ ] Oranges
 
+- [ ] Oatmeal
+
 - [ ] Bananas
+
+- [ ] Strawberries
