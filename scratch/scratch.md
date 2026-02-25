@@ -1,7 +1,7 @@
 # Scratch
 
-- [ ] Apples
+- [ ] Apple Ice Cream
 
-- [ ] Oranges
+- [ ] Orange Ice Cream
 
-- [ ] Strawberry Banana
+- [ ] Banana Ice Cream
