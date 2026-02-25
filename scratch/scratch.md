@@ -1,13 +1,7 @@
 # Scratch
 
-This is cool, too!
+- [ ] Apples
 
-- [ ] Cherrio dude
+- [ ] Oranges
 
-- [ ] Fruit Loops
-
-- [ ] Cinamon Toast Crunch
-
-- [ ] Changes are awesome
-
-- [ ] This is an amazing test document!
+- [ ] Bananas
