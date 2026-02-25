@@ -2,11 +2,13 @@
 
 This is cool, too!
 
-- [ ] Cherrio dude
+- [ ] Cherrio 
 
 - [ ] Fruit Loops
 
 - [ ] Cinamon Toast Crunch
+
+- [ ] Oatmeal
 
 - [ ] Changes are awesome
 

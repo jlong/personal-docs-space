@@ -2,8 +2,6 @@
 
 Just a few tests on headings.
 
-<br />
-
 ***
 
 # Heading 1
