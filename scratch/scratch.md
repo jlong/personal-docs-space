@@ -4,4 +4,4 @@
 
 - [ ] Oranges
 
-- [ ] Strawberry Bananas
+- [ ] Strawberry Banana
