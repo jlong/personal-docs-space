@@ -4,4 +4,4 @@
 
 - [External](https://32pixels.co)
 
-- [Another one](https://google.com)
+- [Another ones](https://google.com)
