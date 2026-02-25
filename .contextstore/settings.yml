@@ -1,2 +1,6 @@
 name: Personal
-createdAt: '2026-02-25T04:38:20Z'
+createdAt: '2026-02-11T19:30:01Z'
+github:
+  owner: jlong
+  name: personal-docs-space
+  cloneURL: https://github.com/jlong/personal-docs-space.git
