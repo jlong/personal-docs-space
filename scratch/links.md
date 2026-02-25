@@ -1,3 +1,3 @@
 # Links
 
-- Internal
+- [Internal](./headings.md)
