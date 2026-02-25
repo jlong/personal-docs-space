@@ -2,4 +2,4 @@
 
 - [Internal](./headings.md)
 
-- External
+- [External](https://32pixels.co)
