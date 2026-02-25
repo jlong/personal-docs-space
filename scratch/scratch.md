@@ -2,7 +2,10 @@
 
 This is cool, too!
 
-- [ ] Cherrios are awesome
+- [ ] Cherrio dude
+
 - [ ] Fruit Loops
+
 - [ ] Cinamon Toast Crunch
-- [ ] Another change
+
+- [ ] Changes are awesome
