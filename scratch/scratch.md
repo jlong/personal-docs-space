@@ -2,6 +2,8 @@
 
 - [ ] Apples
 
-- [ ] Oranges
+- [ ] Oranges & cream
+
+- [ ] Grits
 
 - [ ] Bananas
