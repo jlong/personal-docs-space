@@ -3,11 +3,13 @@
 Bullets
 
 - Apples
+
 - Oranges
-- Banannas
+
+- Bananas
 
 Numbers
 
 1. Apples
 2. Oranges
-3. Banannas
+3. Bananas
