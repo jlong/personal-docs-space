@@ -1,9 +1,9 @@
 # Links
 
-- [Internal](./headings.md)
+- [Headings](./headings.md)
 
-- [External](https://32pixels.co)
+- [32pixels](https://32pixels.co)
 
-- [Another uno](https://google.com)
+- [Google](https://google.com)
 
 - The big brown fox jumped over the really lazy dog
