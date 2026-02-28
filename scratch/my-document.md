@@ -2,7 +2,7 @@
 
 Other stuff is cool! Even more text here!
 
-The first insertion
+The first insertion with word merge!
 
 With more content below. Indeed!
 
