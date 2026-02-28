@@ -1,9 +1,9 @@
 # My document
 
-Other stuff is cool!
+Other stuff is cool! Even more text here! Indeed.
 
 With more content below. Indeed!
 
-The narly brown fox quickly jumped over the lazy brown dog. The brown dog narrowly escaped.
+The narly brown fox quickly jumped over the lazy brown dog.
 
 And more.
