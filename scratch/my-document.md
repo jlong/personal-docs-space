@@ -1,6 +1,6 @@
 # My document
 
-Other stuff is cool! Even more text here!
+Other stuff is cool! 
 
 With more content below.
 
