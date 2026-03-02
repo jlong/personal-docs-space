@@ -1,6 +1,6 @@
 # Headings
 
-Just a few tests on headings.
+Just a few test headings!
 
 ***
 
