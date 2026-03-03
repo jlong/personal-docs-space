@@ -1,10 +1,10 @@
 # Scratch
 
-- [ ] Apple  Cream
+- [ ] Vanilla Bean Ice Cream
 
-- [ ] Orange  Cream
+- [ ] Pistachio Gelato
 
-- [ ] Strawberry Banana  Cream
+- [ ] Salted Caramel Sundae
 
 <br />
 
@@ -14,7 +14,7 @@ What are you syncing about?
 
 If I keep typing an I get it to do the thing?
 
-That is much better, I think??
+The local user decided to completely rethink this paragraph, replacing it with their own thoughts about testing strategies and quality assurance workflows.
 
 This paragraph was added to test the sync cycle and verify that the "Document modified externally" alert no longer appears during normal edit-sync-edit-sync workflows.
 
