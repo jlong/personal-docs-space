@@ -1,11 +1,10 @@
 # Shopping List
 
-- Apples
+- Grapes
 - Oranges
 - Bananas
 
 ## Notes
 
-Pick up items before noon.
-
-&#x20; Check the sale flyer.
+Pick up items after work.
+Check the sale flyer.
