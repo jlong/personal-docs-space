@@ -4,7 +4,11 @@
 
 Granite marble limestone sandstone basalt obsidian pumice slate quartzite gneiss.
 
+Granite marble limestone sandstone basalt obsidian pumice slate quartzite gneiss.
+
 ## API Design
+
+Saxophone trumpet clarinet flute oboe bassoon trombone tuba horn piccolo.
 
 Saxophone trumpet clarinet flute oboe bassoon trombone tuba horn piccolo.
 
@@ -13,6 +17,8 @@ Saxophone trumpet clarinet flute oboe bassoon trombone tuba horn piccolo.
 Standard username and password authentication is used.
 
 ## Caching
+
+Titanium chromium vanadium tungsten molybdenum cobalt nickel palladium platinum rhodium.
 
 Titanium chromium vanadium tungsten molybdenum cobalt nickel palladium platinum rhodium.
 
