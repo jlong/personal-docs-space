@@ -4,6 +4,8 @@
 
 The system architecture follows a microservices design pattern with event-driven communication between services.
 
+The system architecture follows a monolithic design pattern with clear layer boundaries.
+
 ## Components
 
 Each component is responsible for a specific domain.
