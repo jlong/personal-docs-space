@@ -2,11 +2,11 @@
 
 ## Overview
 
-This is a scratch pad for quick notes and ideas.
+This scratch pad serves as our living design document for the platform.
 
 ## API Design
 
-The API uses REST with JSON payloads over HTTP.
+The API uses REST with OpenAPI 3.0 specs and auto-generated client SDKs.
 
 ## Authentication
 
@@ -14,7 +14,7 @@ Users log in with username and password stored in a local database.
 
 ## Caching
 
-We don't currently use any caching layer.
+We use an in-memory LRU cache per service instance with 5-minute TTL.
 
 ## Future Plans
 

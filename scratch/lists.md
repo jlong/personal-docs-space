@@ -2,22 +2,22 @@
 
 ## Team Members
 
-- Alice is the project lead
+- Alice is the engineering manager
 - Bob handles backend development
-- Charlie manages the database
+- Charlie manages the database and DevOps
 
 ## Tech Stack
 
 Our current stack:
 
-- Frontend: jQuery with Bootstrap
-- Backend: PHP with Apache
-- Database: MySQL 5.7
+- Frontend: Vue.js with Tailwind CSS
+- Backend: Go with Gin framework
+- Database: MySQL 8.0 with read replicas
 
 ## Priorities
 
 Current priorities for the quarter:
 
 - Fix critical bugs in the login flow
-- Improve page load times
-- Add basic search functionality
+- Add comprehensive API documentation
+- Build admin dashboard for operations team
