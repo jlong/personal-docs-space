@@ -2,7 +2,7 @@
 
 ## Overview
 
-The system architecture follows a modular design pattern.
+The system architecture follows a monolithic design pattern with clear layer boundaries.
 
 ## Components
 
