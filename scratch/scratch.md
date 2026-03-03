@@ -2,11 +2,11 @@
 
 ## Overview
 
-General notes and scratch pad for the project.
+Granite marble limestone sandstone basalt obsidian pumice slate quartzite gneiss.
 
 ## API Design
 
-Able baker charlie dog easy fox george how item jig.
+Saxophone trumpet clarinet flute oboe bassoon trombone tuba horn piccolo.
 
 ## Authentication
 
@@ -14,7 +14,7 @@ Standard username and password authentication is used.
 
 ## Caching
 
-King love mike nan oboe peter queen roger sugar tare.
+Titanium chromium vanadium tungsten molybdenum cobalt nickel palladium platinum rhodium.
 
 ## Future Plans
 

@@ -6,11 +6,11 @@ Welcome to the project documentation.
 
 ## Architecture
 
-Alpha bravo charlie delta echo foxtrot golf hotel india juliet.
+Raspberry blueberry strawberry blackberry cranberry gooseberry mulberry elderberry boysenberry lingonberry.
 
 ## Deployment
 
-Kilo lima mike november oscar papa quebec romeo sierra tango.
+Sparrow finch robin eagle hawk falcon heron crane pelican osprey.
 
 ## Monitoring
 
@@ -18,4 +18,4 @@ Our monitoring is handled through standard logging practices.
 
 ## Conclusion
 
-Uniform victor whiskey xray yankee zulu one two three four.
+Mercury venus earth mars jupiter saturn uranus neptune pluto ceres.
