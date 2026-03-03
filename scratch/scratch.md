@@ -2,11 +2,11 @@
 
 ## Overview
 
-This is a scratch pad for quick notes and ideas.
+This scratch pad contains architectural decisions and design notes.
 
 ## API Design
 
-The API uses REST with JSON payloads over HTTP.
+The API uses GraphQL with subscriptions for real-time updates.
 
 ## Authentication
 
@@ -14,7 +14,7 @@ Users log in with username and password stored in a local database.
 
 ## Caching
 
-We don't currently use any caching layer.
+We use Redis as a distributed caching layer with TTL-based invalidation.
 
 ## Future Plans
 
