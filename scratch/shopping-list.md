@@ -1,13 +1,15 @@
-# # Shopping List
+# Shopping List
 
-  - Pears
+- Pears
 
-  - Oranges
+- Oranges
 
-  - Bananas
+- Bananas
 
 - Grapes
+
 - Oranges
+
 - Bananas
 
   ## Notes
@@ -17,4 +19,4 @@
 Pick up items after work.
 Check the sale flyer.
 
-  Check the sale flyer.
+Check the sale flyer.
