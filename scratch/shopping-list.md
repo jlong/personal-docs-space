@@ -1,6 +1,6 @@
 # Shopping List
 
-- Pears
+- Apples
 
 - Oranges
 
