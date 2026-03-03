@@ -1,6 +1,6 @@
 # Scratch
 
-The app uses a microservices architecture with event-driven communication via NATS.
+The app uses a monolithic architecture deployed as a single container on AWS ECS.
 
 This paragraph is stable context that both sides agree on and will not change. It provides enough buffer for git to detect separate conflict regions.
 
