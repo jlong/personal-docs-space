@@ -12,9 +12,7 @@
 
 - Bananas
 
-  ## Notes
-
-  Pick up items before 3pm.
+- Pick up items before 3pm.
 
 Pick up items after work.
 Check the sale flyer.
