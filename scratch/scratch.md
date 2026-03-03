@@ -1,9 +1,9 @@
 # Scratch
 
-The app uses a modular architecture with clear separation of concerns.
+The app uses a microservices architecture communicating over gRPC with protocol buffers.
 
 This paragraph provides stable context between the changing sections.
 
 ## Database
 
-We store data in SQLite with a simple schema.
+We store data in MongoDB with change streams for real-time reactivity.

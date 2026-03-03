@@ -2,8 +2,8 @@
 
 Our priority features for this quarter:
 
-- User authentication
-- Document editing
-- File management
+- Passwordless authentication via magic links
+- Markdown editor with live preview
+- Git-based version control for documents
 
 These features were decided in the planning meeting last week.
