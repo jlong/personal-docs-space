@@ -14,4 +14,4 @@ What are you syncing about?
 
 If I keep typing an I get it to do the thing?
 
-That 
+That is much better, I think??
