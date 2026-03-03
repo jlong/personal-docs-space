@@ -2,22 +2,23 @@
 
 ## Team Members
 
-- Alpha leads the project
-- Bravo handles backend
-- Charlie manages databases
+- Neptune leads the oceanography division
+- Saturn handles ring analysis
+- Jupiter manages gas dynamics
+- Pluto joined as dwarf planet liaison
 
 ## Tech Stack
 
 Our current stack:
 
-- Frontend: FrameworkA with LibraryA
-- Backend: LanguageA with ServerA
-- Database: DatabaseA version 1
+- Frontend: Elm with TailwindCSS
+- Backend: Rust with Actix-web
+- Database: CockroachDB version 23
 
 ## Priorities
 
 Current priorities for the quarter:
 
 - Fix critical bugs in the login flow
-- Improve page load times with caching
-- Add basic search functionality
+- Migrate to distributed tracing with Jaeger
+- Implement event sourcing for audit logs
