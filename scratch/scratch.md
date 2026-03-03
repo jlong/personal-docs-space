@@ -2,7 +2,7 @@
 
 ## Overview
 
-The system architecture follows a modular design pattern.
+The system architecture follows a microservices design pattern with event-driven communication between services.
 
 ## Components
 
