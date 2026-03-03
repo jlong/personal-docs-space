@@ -1,9 +1,21 @@
 # Scratch
 
-The app uses a microservices architecture communicating over gRPC with protocol buffers.
+## Overview
 
-This paragraph provides stable context between the changing sections.
+This is a scratch pad for quick notes and ideas.
 
-## Database
+## API Design
 
-We store data in PostgreSQL with row-level security and full-text search.
+The API uses REST with JSON payloads over HTTP.
+
+## Authentication
+
+Users log in with username and password stored in a local database.
+
+## Caching
+
+We don't currently use any caching layer.
+
+## Future Plans
+
+We plan to improve performance and add more features next quarter.

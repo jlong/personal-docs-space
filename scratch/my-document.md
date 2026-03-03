@@ -1,9 +1,21 @@
 # My Document
 
-The deployment strategy uses Kubernetes with blue-green deployments.
+## Introduction
 
-We deploy every two weeks on Friday afternoons after the team standup.
+This is the introduction paragraph that sets the stage for the document.
 
-## Rollback Plan
+## Architecture
 
-If something goes wrong, we redeploy the previous tagged container image from our registry.
+The system uses a monolithic architecture with a single database.
+
+## Deployment
+
+We deploy manually by copying files to the production server.
+
+## Monitoring
+
+We check the server logs manually every morning for errors.
+
+## Conclusion
+
+This document describes our current infrastructure setup.
