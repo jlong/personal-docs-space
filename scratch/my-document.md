@@ -12,4 +12,4 @@ And one more thing.
 
 And here we are with another change.
 
-And 
+And now that it synced, here’s another.
