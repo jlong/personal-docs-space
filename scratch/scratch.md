@@ -1,21 +1,21 @@
 # Scratch
 
-- [ ] Apple  Cream
+The app uses a modular architecture with clear separation of concerns.
 
-- [ ] Orange  Cream
+This paragraph is stable context that both sides agree on and will not change. It provides enough buffer for git to detect separate conflict regions.
 
-- [ ] Strawberry Banana  Cream
+## Database
 
-<br />
+We store data in SQLite with a simple schema.
 
-We have this here so that we can test syncing.
+The database layer is well-tested with comprehensive integration tests covering all CRUD operations and edge cases around concurrent access.
 
-What are you syncing about?
+## Networking
 
-If I keep typing an I get it to do the thing?
+All API calls go through a centralized HTTP client.
 
-That is much better, I think??
+The networking stack has been stable for months and handles retries, timeouts, and certificate pinning correctly across all supported platforms.
 
-This paragraph was added to test the sync cycle and verify that the "Document modified externally" alert no longer appears during normal edit-sync-edit-sync workflows.
+## Notes
 
-Another paragraph added to test that external file modifications are now detected quickly, within about one second instead of the previous ten to twenty second delay.
+This document tracks our architectural decisions.
