@@ -2,8 +2,8 @@
 
 Our priority features for this quarter:
 
-- Passwordless authentication via magic links
-- Markdown editor with live preview
-- Git-based version control for documents
+- OAuth single sign-on with SAML support
+- Real-time collaborative editing with CRDTs
+- Cloud storage integration with S3
 
 These features were decided in the planning meeting last week.
