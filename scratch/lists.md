@@ -1,15 +1,9 @@
 # Lists
 
-Bullets
+Our priority features for this quarter:
 
-- Apples
+- User authentication
+- Document editing
+- File management
 
-- Oranges
-
-- Bananas
-
-Numbers
-
-1. Apples
-2. Oranges
-3. Bananas
+These features were decided in the planning meeting last week.

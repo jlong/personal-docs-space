@@ -1,15 +1,9 @@
-# My document
+# My Document
 
-Other stuff is cool! Even more text here!
+The deployment strategy uses a single server approach.
 
-What a 1 great tool!
+We deploy every two weeks on Friday afternoons after the team standup.
 
-So the real question is if I can keep adding content even when it’s syncing about it.
+## Rollback Plan
 
-2 Learning abut all the 2 things.
-
-And one more thing.
-
-And here we are with another change.
-
-3 And now that it 3 synced, here’s another.
+If something goes wrong, we restore from the latest backup.
