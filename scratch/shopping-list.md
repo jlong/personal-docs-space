@@ -1,14 +1,20 @@
 # # Shopping List
 
-&#x20; \- Pears
+  - Pears
 
-&#x20; \- Oranges
+  - Oranges
 
-&#x20; \- Bananas
+  - Bananas
 
-&#x20; \## Notes
+- Grapes
+- Oranges
+- Bananas
 
-&#x20; Pick up items before 3pm.
+  ## Notes
 
-&#x20; Check the sale flyer.
+  Pick up items before 3pm.
 
+Pick up items after work.
+Check the sale flyer.
+
+  Check the sale flyer.
