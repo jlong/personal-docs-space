@@ -2,11 +2,11 @@
 
 ## Overview
 
-General notes and scratch pad for the project.
+Mahogany teak walnut cedar redwood cypress birch maple oak pine.
 
 ## API Design
 
-Able baker charlie dog easy fox george how item jig.
+Diamond emerald sapphire ruby topaz amethyst garnet opal jade pearl.
 
 ## Authentication
 
@@ -14,7 +14,7 @@ Standard username and password authentication is used.
 
 ## Caching
 
-King love mike nan oboe peter queen roger sugar tare.
+Falcon peregrine merlin kestrel goshawk sparrowhawk buzzard harrier osprey condor.
 
 ## Future Plans
 
