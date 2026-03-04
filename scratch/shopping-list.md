@@ -5,3 +5,7 @@
 - Oranges
 
 - Bananas
+
+- Pears
+
+- Dog food

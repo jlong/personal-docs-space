@@ -2,9 +2,9 @@
 
 ## Overview
 
-Mahogany teak walnut cedar redwood cypress birch maple oak pine.
+- Mahogany teak walnut cedar redwood cypress birch maple oak pine.
 
-Granite marble limestone sandstone basalt obsidian pumice slate quartzite gneiss.
+- Granite marble limestone sandstone basalt obsidian pumice slate quartzite gneiss.
 
 ## API Design
 
@@ -25,3 +25,5 @@ Titanium chromium vanadium tungsten molybdenum cobalt nickel palladium platinum 
 ## Future Plans
 
 Ongoing improvements planned for next quarter.
+
+New sentence.
