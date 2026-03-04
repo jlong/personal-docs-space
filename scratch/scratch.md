@@ -3,8 +3,9 @@
 ## Overview
 
 - Mahogany teak walnut cedar redwood cypress birch maple oak pine.
-
 - Granite marble limestone sandstone basalt obsidian pumice slate quartzite gneiss.
+
+Granite marble limestone sandstone basalt obsidian pumice slate quartzite gneiss.
 
 ## API Design
 
