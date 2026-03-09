@@ -1,24 +1,11 @@
 ---
-# ─── Identity & Discovery ───────────────────────────────────────────────────
-title: "My Document Title"
+title: My Document Title
 slug: my-document-title
-
-# Inline arrays
 tags: [writing, tutorial, markdown]
 categories: [guides, reference]
 aliases: [/old-url, /another-old-url]
-
-# Block arrays
-redirects:
-  - /very/long/old/path/that/would/make/inline/ugly
-  - /another/long/old/path
-  - /yet/another/one
-
-# Empty array
+redirects: [/very/long/old/path/that/would/make/inline/ugly, /another/long/old/path, /yet/another/one]
 empty_tags: []
-
-# ─── Authorship ─────────────────────────────────────────────────────────────
-# Nested object
 author:
   name: John Doe
   email: john@example.com
@@ -35,16 +22,12 @@ authors:
     role: contributor
 
 # ─── Dates ──────────────────────────────────────────────────────────────────
-date: 2026-03-08
-updated: 2026-03-08
-publishedAt: 2026-03-08T09:00:00Z
-
-# ─── Publishing State ────────────────────────────────────────────────────────
+date: 2026-03-08 00:00:00 +0000
+updated: 2026-03-08 00:00:00 +0000
+publishedAt: 2026-03-08 09:00:00 +0000
 draft: false
 published: true
-status: published        # draft | review | published | archived
-
-# ─── Display & Layout ────────────────────────────────────────────────────────
+status: published
 layout: post
 image: /images/cover.png
 thumbnail: /images/thumb.png
@@ -54,8 +37,6 @@ weight: 10
 sidebar: true
 toc: true
 reading_time: 5
-
-# ─── SEO (nested) ────────────────────────────────────────────────────────────
 seo:
   title: "Custom SEO Title"
   description: "Override description for search engines."
@@ -63,6 +44,7 @@ seo:
   noindex: false
 
 # ─── Open Graph (nested) ─────────────────────────────────────────────────────
+description: A long description that stays as one clean sentence without a trailing newline at the end.
 og:
   title: "Social Share Title"
   image: /images/og-cover.png
@@ -78,30 +60,16 @@ related:
 # ─── Multi-line strings ──────────────────────────────────────────────────────
 
 # Literal block (|) — newlines preserved, trailing newline kept
-body_prefix: |
-  This line is first.
-  This line is second.
+body_prefix: This line is first.
+This line is second.
 
-  This line follows a blank line.
+This line follows a blank line.
 
-# Literal strip (|-) — newlines preserved, trailing newline trimmed
-redirect_message: |-
-  This page has moved.
-  Please update your bookmarks.
+redirect_message: This page has moved.
+Please update your bookmarks.
+excerpt: This is a long excerpt that wraps across multiple lines in the source file but will be collapsed into a single paragraph when parsed.
 
-# Folded block (>) — newlines become spaces, trailing newline kept
-excerpt: >
-  This is a long excerpt that wraps across
-  multiple lines in the source file but will
-  be collapsed into a single paragraph when parsed.
-
-# Folded strip (>-) — newlines become spaces, trailing newline trimmed
-description: >-
-  A long description that stays as one clean
-  sentence without a trailing newline at the end.
-
-# Inline escaped newlines — less common but valid
-subtitle: "Line one.\nLine two.\nLine three."
+subtitle: Line one. Line two. Line three.
 ---
 
 # Frontmatter
