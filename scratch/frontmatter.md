@@ -9,12 +9,10 @@ company: spacelift
 
 # Frontmatter
 
-This document  contains front matter
+This document  contains front matter. Front matter is 
 
 | Syntax    | Description |   Test Text |
 | :-------- | :---------: | ----------: |
 | Header    |    Title    | Here's this |
 | Paragraph |     Text    |    And more |
-
-<br />
 
