@@ -42,7 +42,7 @@ publishedAt: 2026-03-08T09:00:00Z
 # ─── Publishing State ────────────────────────────────────────────────────────
 draft: false
 published: true
-status: published        # draft | review | published | archived
+status: published # draft | review | published | archived
 
 # ─── Display & Layout ────────────────────────────────────────────────────────
 layout: post
@@ -111,6 +111,6 @@ This document contains front matter. Front matter is a convention that is shared
 | Syntax    | Description |   Test Text |
 | :-------- | :---------: | ----------: |
 | Header    |    Title    | Here's this |
-| Paragraph |     Text    |    And more |
+| Paragraph |    Text     |    And more |
 
 I can make changes without the frontmater being nuked.
