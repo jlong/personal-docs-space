@@ -1,15 +1,6 @@
----
-title: Frontmatter is cool
-tags: [structure, properties, thing]
-message: |
-  this is a real
-  multiline message
-company: spacelift
----
-
 # Frontmatter
 
-This document  contains front matter. Front matter is a convention that is used by many systems that use markdown documents.
+This document  contains front matter. Front matter is a convention that is shared by many systems that use markdown documents to add additional properties to the document.
 
 | Syntax    | Description |   Test Text |
 | :-------- | :---------: | ----------: |
