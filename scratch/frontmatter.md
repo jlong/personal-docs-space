@@ -106,7 +106,7 @@ subtitle: "Line one.\nLine two.\nLine three."
 
 # Frontmatter
 
-This document contains front matter. Front matter is a convention that is shared by many systems that use markdown documents to add additional properties to the document! I can make changes.
+This document contains front matter. Front matter is a convention that is shared by many systems that use markdown documents to add additional properties to the document.
 
 | Syntax    | Description |   Test Text |
 | :-------- | :---------: | ----------: |
