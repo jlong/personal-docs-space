@@ -65,8 +65,7 @@ This line is second.
 
 This line follows a blank line.
 
-redirect_message: This page has moved.
-Please update your bookmarks.
+redirect_message: This page has moved. Please update your bookmarks.
 excerpt: This is a long excerpt that wraps across multiple lines in the source file but will be collapsed into a single paragraph when parsed.
 
 subtitle: Line one. Line two. Line three.
