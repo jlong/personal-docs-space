@@ -9,7 +9,7 @@ company: spacelift
 
 # Frontmatter
 
-This document  contains front matter. Front matter is 
+This document  contains front matter. Front matter is a convention that is used by many systems that use markdown documents.
 
 | Syntax    | Description |   Test Text |
 | :-------- | :---------: | ----------: |
