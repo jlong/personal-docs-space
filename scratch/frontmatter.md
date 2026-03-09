@@ -15,7 +15,7 @@ redirects:
   - /yet/another/one
 
 # Empty array
-related: []
+empty_tags: []
 
 # ─── Authorship ─────────────────────────────────────────────────────────────
 # Nested object
