@@ -111,6 +111,6 @@ This document contains front matter. Front matter is a convention that is shared
 | Syntax    | Description |   Test Text |
 | :-------- | :---------: | ----------: |
 | Header    |    Title    | Here's this |
-| Paragraph |    Text     |    And more |
+| Paragraph |     Text    |    And more |
 
 I can make changes without the frontmater being nuked.
