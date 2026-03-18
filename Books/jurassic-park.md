@@ -64,7 +64,11 @@ Steven Spielberg directed the 1993 film adaptation, which became a massive box o
 
 While the film streamlines Crichton's plot and softens some of its darker elements — Hammond becomes a kindly grandfather rather than a ruthless capitalist, and several character deaths are omitted — it preserves the novel's core themes about humanity's inability to control nature. The Spielberg film arguably surpasses the book in one respect: the sheer visceral terror of seeing the dinosaurs brought to life on screen, particularly the iconic T. rex attack sequence and the Velociraptor kitchen scene.
 
+<br />
+
 ***
+
+<br />
 
 ## Legacy and Influence
 
