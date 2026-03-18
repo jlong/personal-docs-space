@@ -8,6 +8,8 @@
 
 Crichton draws heavily on chaos theory, molecular biology, and paleontology to ground the story in plausible science, making it one of the most compelling cautionary tales about technological overreach ever written. The book became an immediate bestseller and cemented Crichton's reputation as the master of the science-thriller genre.
 
+<br />
+
 ***
 
 ## Plot Summary
@@ -21,6 +23,8 @@ Also invited to the island is Dr. Ian Malcolm, a mathematician specializing in c
 What follows is a harrowing sequence of events as the visitors and staff struggle to survive against free-roaming predators. The Velociraptors prove to be the most terrifying threat — highly intelligent pack hunters that systematically test fences for weaknesses and learn to open doors. Grant and the children, Tim and Lex Murphy (Hammond's grandchildren), must navigate the park on foot to reach safety. Meanwhile, the remaining staff race to restore the computer systems and get the security grid back online.
 
 The novel builds to a tense climax as the survivors discover that the dinosaurs have been breeding in the wild — something that was supposed to be impossible, since all the animals were engineered to be female. Malcolm's chaos theory is vindicated: "Life finds a way." The Costa Rican government ultimately firebombs the island, and the survivors barely escape.
+
+<br />
 
 ***
 
@@ -41,6 +45,8 @@ Throughout the novel, Hammond insists that the park is perfectly safe, pointing 
 ### Corporate Greed and Accountability
 
 Hammond is portrayed not as a mad scientist but as a shrewd businessman who views the dinosaurs primarily as attractions that will generate enormous revenue. He cuts corners on staffing, ignores safety warnings, and dismisses Malcolm's concerns as academic pessimism. Nedry's sabotage is motivated by Hammond's refusal to pay him fairly. The novel suggests that when profit motives drive scientific endeavors, safety becomes an afterthought.
+
+<br />
 
 ***
 
