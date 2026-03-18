@@ -34,6 +34,8 @@ Wendy's role in Neverland is almost entirely maternal. Peter brings her not as a
 
 Time is a persistent motif in the novel. The ticking crocodile is its most vivid symbol — time pursues everyone, and no one can escape it forever. Hook's terror of the crocodile mirrors the adult fear of mortality. Peter exists outside of time, which is why he can never truly belong to the real world. The final chapter, "When Wendy Grew Up," is one of the most poignant passages in children's literature, as an adult Wendy watches Peter return for her daughter, and then her granddaughter, in an endless cycle.
 
+***
+
 ## Legacy
 
 *Peter Pan* has become one of the most enduring works in the English literary canon. It has been adapted into countless films, stage productions, and retellings — from the 1953 Disney animated film to Steven Spielberg's *Hook* (1991) to the darker reimaginings of recent years. The character of Peter Pan has entered the cultural lexicon as a symbol of eternal youth, and "Neverland" has become shorthand for escapism and the refusal to face adult reality.
