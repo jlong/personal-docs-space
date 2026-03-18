@@ -2,6 +2,8 @@
 
 ***
 
+<br />
+
 ## Overview
 
 *Jurassic Park* by Michael Crichton, published in 1990, is a techno-thriller that explores the dangers of genetic engineering and the hubris of trying to control nature. The novel follows paleontologist Dr. Alan Grant, paleobotanist Dr. Ellie Sattler, and mathematician Dr. Ian Malcolm as they are invited to preview a revolutionary theme park on Isla Nublar, a remote island off the coast of Costa Rica. The park's creator, billionaire John Hammond, has used cutting-edge genetic science to clone living dinosaurs from DNA preserved in amber. What begins as an awe-inspiring tour quickly descends into a fight for survival when the park's security systems fail and the dinosaurs break free.
