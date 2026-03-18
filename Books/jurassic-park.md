@@ -8,6 +8,8 @@
 
 Crichton draws heavily on chaos theory, molecular biology, and paleontology to ground the story in plausible science, making it one of the most compelling cautionary tales about technological overreach ever written. The book became an immediate bestseller and cemented Crichton's reputation as the master of the science-thriller genre.
 
+<br />
+
 ***
 
 ## Plot Summary
@@ -21,6 +23,8 @@ Also invited to the island is Dr. Ian Malcolm, a mathematician specializing in c
 What follows is a harrowing sequence of events as the visitors and staff struggle to survive against free-roaming predators. The Velociraptors prove to be the most terrifying threat — highly intelligent pack hunters that systematically test fences for weaknesses and learn to open doors. Grant and the children, Tim and Lex Murphy (Hammond's grandchildren), must navigate the park on foot to reach safety. Meanwhile, the remaining staff race to restore the computer systems and get the security grid back online.
 
 The novel builds to a tense climax as the survivors discover that the dinosaurs have been breeding in the wild — something that was supposed to be impossible, since all the animals were engineered to be female. Malcolm's chaos theory is vindicated: "Life finds a way." The Costa Rican government ultimately firebombs the island, and the survivors barely escape.
+
+<br />
 
 ***
 
@@ -42,11 +46,17 @@ Throughout the novel, Hammond insists that the park is perfectly safe, pointing 
 
 Hammond is portrayed not as a mad scientist but as a shrewd businessman who views the dinosaurs primarily as attractions that will generate enormous revenue. He cuts corners on staffing, ignores safety warnings, and dismisses Malcolm's concerns as academic pessimism. Nedry's sabotage is motivated by Hammond's refusal to pay him fairly. The novel suggests that when profit motives drive scientific endeavors, safety becomes an afterthought.
 
+<br />
+
+***
+
 ## The Film Adaptation
 
 Steven Spielberg directed the 1993 film adaptation, which became a massive box office hit, grossing over $900 million worldwide, and spawned an entire franchise that continues to this day. The film's groundbreaking use of CGI dinosaurs, created by Industrial Light & Magic, revolutionized visual effects in cinema and earned three Academy Awards for its technical achievements in sound and visual effects.
 
 While the film streamlines Crichton's plot and softens some of its darker elements — Hammond becomes a kindly grandfather rather than a ruthless capitalist, and several character deaths are omitted — it preserves the novel's core themes about humanity's inability to control nature. The Spielberg film arguably surpasses the book in one respect: the sheer visceral terror of seeing the dinosaurs brought to life on screen, particularly the iconic T. rex attack sequence and the Velociraptor kitchen scene.
+
+***
 
 ## Legacy and Influence
 
