@@ -24,8 +24,6 @@ What follows is a harrowing sequence of events as the visitors and staff struggl
 
 The novel builds to a tense climax as the survivors discover that the dinosaurs have been breeding in the wild — something that was supposed to be impossible, since all the animals were engineered to be female. Malcolm's chaos theory is vindicated: "Life finds a way." The Costa Rican government ultimately firebombs the island, and the survivors barely escape.
 
-<br />
-
 ***
 
 ## Key Themes
@@ -46,8 +44,6 @@ Throughout the novel, Hammond insists that the park is perfectly safe, pointing 
 
 Hammond is portrayed not as a mad scientist but as a shrewd businessman who views the dinosaurs primarily as attractions that will generate enormous revenue. He cuts corners on staffing, ignores safety warnings, and dismisses Malcolm's concerns as academic pessimism. Nedry's sabotage is motivated by Hammond's refusal to pay him fairly. The novel suggests that when profit motives drive scientific endeavors, safety becomes an afterthought.
 
-<br />
-
 ***
 
 ## The Film Adaptation
@@ -56,11 +52,7 @@ Steven Spielberg directed the 1993 film adaptation, which became a massive box o
 
 While the film streamlines Crichton's plot and softens some of its darker elements — Hammond becomes a kindly grandfather rather than a ruthless capitalist, and several character deaths are omitted — it preserves the novel's core themes about humanity's inability to control nature. The Spielberg film arguably surpasses the book in one respect: the sheer visceral terror of seeing the dinosaurs brought to life on screen, particularly the iconic T. rex attack sequence and the Velociraptor kitchen scene.
 
-<br />
-
 ***
-
-<br />
 
 ## Legacy and Influence
 
