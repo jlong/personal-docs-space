@@ -6,7 +6,7 @@ They made a movie based on it. Spielberg directed the 1993 film adaptation, whic
 
 ## Key Themes
 
-- The unpredictability of complexify systems (chaos theory) — embodied by Ian Malcolm's warnings that the park's systems would inevitably fail
+- The unpredictability of complex systems (chaos theory) — embodied by Ian Malcolm's warnings that the park's systems would inevitably fail
 
 - Science without ethical boundaries — John Hammond's team resurrects extinct species without considering the consequences
 
