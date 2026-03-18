@@ -48,8 +48,6 @@ Hammond is portrayed not as a mad scientist but as a shrewd businessman who view
 
 Steven Spielberg directed the 1993 film adaptation, which became a massive box office hit, grossing over $900 million worldwide, and spawned an entire franchise that continues to this day. The film's groundbreaking use of CGI dinosaurs, created by Industrial Light & Magic, revolutionized visual effects in cinema and earned three Academy Awards for its technical achievements in sound and visual effects.
 
-###### Heading 6
-
 While the film streamlines Crichton's plot and softens some of its darker elements — Hammond becomes a kindly grandfather rather than a ruthless capitalist, and several character deaths are omitted — it preserves the novel's core themes about humanity's inability to control nature. The Spielberg film arguably surpasses the book in one respect: the sheer visceral terror of seeing the dinosaurs brought to life on screen, particularly the iconic T. rex attack sequence and the Velociraptor kitchen scene.
 
 ***
