@@ -1,10 +1,14 @@
 # Peter Pan
 
+***
+
 ## Overview
 
 *Peter Pan* by J.M. Barrie began as a stage play in 1904 before being adapted into the novel *Peter and Wendy* in 1911. The story follows Peter Pan, a mischievous boy who can fly and never grows up, as he leads the Darling children — Wendy, John, and Michael — from their London nursery to the magical island of Neverland. There they encounter fairies, mermaids, a tribe of indigenous people, and a band of Lost Boys, all while contending with the villainous Captain Hook and his crew of pirates.
 
 What appears on the surface to be a lighthearted children's adventure is, in fact, a deeply melancholic meditation on the nature of childhood, the inevitability of growing up, and the bittersweet relationship between parents and children.
+
+***
 
 ## Plot Summary
 
@@ -13,6 +17,8 @@ The story begins in the Darling household, where Mr. and Mrs. Darling are prepar
 In Neverland, Wendy takes on a maternal role for Peter and the Lost Boys — a group of children who fell out of their prams and were never claimed. She tells them stories, tucks them into bed, and brings a sense of domestic order to their underground home. Meanwhile, Captain Hook — Peter's nemesis, whose hand Peter once cut off and fed to a crocodile — plots his revenge. The crocodile, having swallowed a ticking clock, now pursues Hook relentlessly, its ticking a constant reminder of mortality.
 
 The adventure builds to a climactic battle aboard Hook's pirate ship. Peter and the Lost Boys defeat the pirates, Hook is consumed by the crocodile, and the children fly home to London. The Darling parents, who have been grief-stricken in their absence, joyfully welcome them back. The Lost Boys are adopted by the Darlings, and all the children eventually grow up — all except Peter, who returns to Neverland alone.
+
+***
 
 ## Key Themes
 
