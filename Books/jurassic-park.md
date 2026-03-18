@@ -8,8 +8,6 @@
 
 Crichton draws heavily on chaos theory, molecular biology, and paleontology to ground the story in plausible science, making it one of the most compelling cautionary tales about technological overreach ever written. The book became an immediate bestseller and cemented Crichton's reputation as the master of the science-thriller genre.
 
-<br />
-
 ***
 
 ## Plot Summary
