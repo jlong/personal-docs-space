@@ -22,6 +22,8 @@ What follows is a harrowing sequence of events as the visitors and staff struggl
 
 The novel builds to a tense climax as the survivors discover that the dinosaurs have been breeding in the wild — something that was supposed to be impossible, since all the animals were engineered to be female. Malcolm's chaos theory is vindicated: "Life finds a way." The Costa Rican government ultimately firebombs the island, and the survivors barely escape.
 
+***
+
 ## Key Themes
 
 ### The Unpredictability of Complex Systems
