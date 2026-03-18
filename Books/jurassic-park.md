@@ -22,8 +22,6 @@ What follows is a harrowing sequence of events as the visitors and staff struggl
 
 The novel builds to a tense climax as the survivors discover that the dinosaurs have been breeding in the wild — something that was supposed to be impossible, since all the animals were engineered to be female. Malcolm's chaos theory is vindicated: "Life finds a way." The Costa Rican government ultimately firebombs the island, and the survivors barely escape.
 
-<br />
-
 ***
 
 ## Key Themes
@@ -43,8 +41,6 @@ Throughout the novel, Hammond insists that the park is perfectly safe, pointing 
 ### Corporate Greed and Accountability
 
 Hammond is portrayed not as a mad scientist but as a shrewd businessman who views the dinosaurs primarily as attractions that will generate enormous revenue. He cuts corners on staffing, ignores safety warnings, and dismisses Malcolm's concerns as academic pessimism. Nedry's sabotage is motivated by Hammond's refusal to pay him fairly. The novel suggests that when profit motives drive scientific endeavors, safety becomes an afterthought.
-
-<br />
 
 ***
 
