@@ -28,8 +28,6 @@ The novel builds to a tense climax as the survivors discover that the dinosaurs 
 
 ***
 
-<br />
-
 ## Key Themes
 
 ### The Unpredictability of Complex Systems
@@ -51,8 +49,6 @@ Hammond is portrayed not as a mad scientist but as a shrewd businessman who view
 <br />
 
 ***
-
-<br />
 
 ## The Film Adaptation
 
