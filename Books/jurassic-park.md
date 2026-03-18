@@ -50,6 +50,8 @@ Hammond is portrayed not as a mad scientist but as a shrewd businessman who view
 
 ***
 
+<br />
+
 ## The Film Adaptation
 
 Steven Spielberg directed the 1993 film adaptation, which became a massive box office hit, grossing over $900 million worldwide, and spawned an entire franchise that continues to this day. The film's groundbreaking use of CGI dinosaurs, created by Industrial Light & Magic, revolutionized visual effects in cinema and earned three Academy Awards for its technical achievements in sound and visual effects.
