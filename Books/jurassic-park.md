@@ -6,6 +6,8 @@
 
 Crichton draws heavily on chaos theory, molecular biology, and paleontology to ground the story in plausible science, making it one of the most compelling cautionary tales about technological overreach ever written. The book became an immediate bestseller and cemented Crichton's reputation as the master of the science-thriller genre.
 
+***
+
 ## Plot Summary
 
 The story opens with a series of mysterious incidents on the Costa Rican mainland — unusual lizard attacks on children and unexplained animal carcasses washing ashore. These events draw the attention of Dr. Alan Grant, who is conducting a paleontological dig in Montana. Grant and his colleague Dr. Ellie Sattler are recruited by John Hammond, the elderly CEO of InGen Corporation, to visit and endorse his new biological preserve before it opens to the public.
