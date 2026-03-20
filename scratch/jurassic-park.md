@@ -1,7 +1,5 @@
 # Jurassic Park
 
-<br />
-
 ***
 
 ## Overview
