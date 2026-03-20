@@ -10,4 +10,4 @@
 
 - [Jurrasic Park](../Books/jurassic-park.md)
 
-- Another link
+- [Another link](headings.md)
