@@ -1,3 +1,0 @@
-# Gierd
-
-is great
