@@ -1,6 +1,6 @@
 ---
 tags: test, cli
-status: updated
+status: updated-again
 ---
 
-This content was updated. Did the H1 survive?
+Second update via CLI. Did the H1 survive this time?

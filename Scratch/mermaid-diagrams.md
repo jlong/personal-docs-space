@@ -1,5 +1,7 @@
 # Mermaid diagrams
 
+Diagram:
+
 ```mermaid
 graph TD
     A[User Opens App] --> B[Create Space]
