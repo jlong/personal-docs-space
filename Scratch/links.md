@@ -6,7 +6,7 @@
 
 - [Google](https://google.com)
 
-- The big brown fox jumped over the really lazy dog
+- The big brown fox jumped over the  lazy dog
 
 - [Jurrasic Park](../Books/jurassic-park.md)
 
