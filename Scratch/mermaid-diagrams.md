@@ -1,5 +1,3 @@
-<br />
-
 # Mermaid diagrams
 
 Diagram:
