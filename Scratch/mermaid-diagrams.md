@@ -125,23 +125,3 @@ classDiagram
     AppStore --> SyncStore : triggers
     FileWatchingStore --> AppStore : notifies
 ```
-
-```mermaid
-flowchart LR
-    subgraph Editor["Milkdown Editor"]
-        MD[Markdown] --> PM[ProseMirror]
-        PM --> WK[WKWebView]
-    end
-    subgraph Bridge["Swift ↔ JS Bridge"]
-        WK <-->|postMessage| EVC[EditorViewController]
-    end
-    subgraph Swift["SwiftUI Layer"]
-        EVC --> EV[EditorView]
-        EV --> MV[MainView]
-        MV --> AS[AppStore]
-    end
-    subgraph Disk["File System"]
-        AS <--> FSM[FileSystemManager]
-        FSM <--> Files[(*.md files)]
-    end
-```
