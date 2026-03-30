@@ -1,9 +1,5 @@
 # Mermaid diagrams
 
-<br />
-
-<br />
-
 Diagram:
 
 ```mermaid
