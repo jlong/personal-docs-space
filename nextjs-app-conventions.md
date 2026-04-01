@@ -84,7 +84,7 @@ icons/             # SVG icon components (all use Base wrapper pattern)
 
 - **Tailwind CSS exclusively** — no custom CSS files, no inline styles
 
-- Use `cn()` function (from `@/lib/shared/cn`) for conditional class merging (clsx + tailwind-merge)
+- Use a custom `cn()`function for conditional class merging (clsx + tailwind-merge)
 
 - Define `styles` objects with state-based keys for complex components:
 
