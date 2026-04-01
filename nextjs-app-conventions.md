@@ -4,7 +4,7 @@ Conventions and patterns for Next.js apps.
 
 ## Tech Stack
 
-- **Framework**: Next.js 15+ (App Router), React 18, TypeScript (strict mode)
+- **Framework**: Next.js, React, TypeScript (strict mode)
 
 - **Styling**: Tailwind CSS with custom design system
 
