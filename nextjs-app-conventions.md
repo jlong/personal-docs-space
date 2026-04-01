@@ -1,6 +1,6 @@
 # Next.js App Conventions
 
-Conventions and patterns for the TaskPage codebase at `~/Workspaces/32pixels/taskpage`.
+Conventions and patterns for Next.js apps.
 
 ## Tech Stack
 
