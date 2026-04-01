@@ -8,16 +8,6 @@ Conventions and patterns for Next.js apps.
 
 - **Styling**: Tailwind CSS with custom design system
 
-- **Database**: PostgreSQL via Prisma ORM
-
-- **Auth**: WorkOS AuthKit with middleware-based route protection
-
-- **Real-time**: TipTap + Hocuspocus + Yjs for collaborative editing
-
-- **Testing**: Jest (unit), Playwright (E2E)
-
-- **Hosting**: Vercel
-
 ## Directory Structure
 
 ```
