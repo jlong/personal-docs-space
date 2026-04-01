@@ -39,11 +39,6 @@ lib/
   auth.ts          # Auth helpers
   database.ts      # Prisma client
 
-prisma/
-  schema.prisma    # Database schema
-  seed.ts          # Database seeding
-  migrations/      # Migration files
-
 tests/
   e2e/             # Playwright specs (*.spec.ts)
   unit/            # Jest tests (*.test.ts / *.test.tsx)
