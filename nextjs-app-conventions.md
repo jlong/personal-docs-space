@@ -106,8 +106,6 @@ icons/             # SVG icon components (all use Base wrapper pattern)
 
 - Async server components by default
 
-- Use `params` as `Promise<{...}>` (Next.js 15+ convention)
-
 - Fetch data directly in the component
 
 - Use `generateMetadata` for page titles
