@@ -2,7 +2,9 @@
 
 &#x20; Quick tests:
 
-&#x20; 1\. Create a new document and paste: This needs a citation\[^1].
+&#x20; 1\. Create a new document and paste:
+
+This needs a citation\[^1].
 
 \[^1]: The supporting reference.
 
