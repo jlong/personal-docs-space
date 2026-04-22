@@ -1,4 +1,9 @@
-# New document
+---
+tags: test, mcp
+status: draft
+---
+
+# Footnotes
 
 &#x20; Quick tests:
 
