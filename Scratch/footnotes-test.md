@@ -11,7 +11,7 @@ Footnotes are particularly useful in technical documentation[^3] where authors n
 
 ## How It Works
 
-When you write a footnote reference like `[^1]`, it renders as a superscript link. The corresponding definition appears at the bottom of the document in a dedicated section. Clicking the reference scrolls you to the definition[^scroll], and clicking the definition label scrolls you back. 
+When you write a footnote reference like `[^1]`, it renders as a superscript link. The corresponding definition appears at the bottom of the document in a dedicated section. Clicking the reference scrolls you to the definition[^scroll], and clicking the definition label scrolls you back.
 
 ## Use Cases
 
