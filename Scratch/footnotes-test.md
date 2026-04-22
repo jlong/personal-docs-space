@@ -11,14 +11,16 @@ Footnotes are particularly useful in technical documentation[^3] where authors n
 
 ## How It Works
 
-When you write a footnote reference like `[^1]`, it renders as a superscript link. The corresponding definition appears at the bottom of the document in a dedicated section. Clicking the reference scrolls you to the definition[^scroll], and clicking the definition label scrolls you back.
+When you write a footnote reference like `[^1]`, it renders as a superscript link. The corresponding definition appears at the bottom of the document in a dedicated section. Clicking the reference scrolls you to the definition[^scroll], and clicking the definition label scrolls you back. 
 
 ## Use Cases
 
 Footnotes shine in several contexts:
 
 - **Knowledge bases** — cite sources without cluttering the main text[^kb]
+
 - **Technical specs** — add implementation notes that only some readers need[^specs]
+
 - **Meeting notes** — reference action items or follow-ups inline[^meetings]
 
 The ProseMirror schema[^prosemirror] handles the node types, while CSS provides the visual styling. The navigation plugin adds the interactive scroll behavior between references and definitions.
