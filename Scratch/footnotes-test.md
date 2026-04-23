@@ -25,6 +25,8 @@ Footnotes shine in several contexts:
 
 The ProseMirror schema[^prosemirror] handles the node types, while CSS provides the visual styling. The navigation plugin adds the interactive scroll behavior between references and definitions.
 
+***
+
 ## Edge Cases
 
 Footnotes can contain rich content including **bold text**, *italics*, and `inline code`[^rich]. They can also reference URLs and other resources[^urls].
