@@ -3,7 +3,7 @@
 <br />
 
 - What are the big design problems facing the team right now?
-- What are 
+- What would you want someone in this role to have accomplished in the first year that would make you feel great about the hire?
 
 <br />
 
