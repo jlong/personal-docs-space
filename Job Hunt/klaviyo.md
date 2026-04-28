@@ -2,6 +2,11 @@
 
 <br />
 
+- What are the pressing design problems facing the team right now?
+- <br />
+
+<br />
+
 **Questions that show you've thought about the role strategically**
 
 - The JD talks about putting AI "at the center" of design workflows. Where is the team today on that — early experimentation, or are there established practices you'd be building on?
