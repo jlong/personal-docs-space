@@ -2,7 +2,7 @@
 
 <br />
 
-- You have such a
+- You have such a cool background. What drew you to Klaviyo?
 - What are the big design problems facing the team right now?
 - What would you want someone in this role to have accomplished in the first year that would make you feel great about the hire?
 
