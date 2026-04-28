@@ -2,8 +2,8 @@
 
 <br />
 
-- What are the pressing design problems facing the team right now?
-- <br />
+- What are the big design problems facing the team right now?
+- What are 
 
 <br />
 
