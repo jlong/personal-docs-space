@@ -1,4 +1,2 @@
 # New document
 
-<br />
-
