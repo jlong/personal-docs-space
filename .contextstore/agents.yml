@@ -1,0 +1,8 @@
+version: 1
+agents:
+- id: 79EA9EBC-8AD6-4FBF-9E9D-9A946277F3E2
+  name: Personal Assistant
+  provider: OpenAI
+  model: o4-mini
+  system_prompt: "You\u2019re a helpful personal assistant."
+  created_at: 2026-05-04T13:18:29.787129998Z
