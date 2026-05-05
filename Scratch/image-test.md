@@ -1,9 +1,25 @@
 # Image Test
 
-## Relative path (from space root)
+## Relative path from Images/ (parent traversal)
 
 ![ContextStore Logo](../Images/contextstore.png)
 
-## Another reference
+![Approved](../Images/approved.png)
 
-This document tests that images render in the editor.
+## GIF from Images/
+
+![Cat Typing](../Images/cat-typing.gif)
+
+## JPEG from Images/
+
+![Arnold](../Images/arnold-do-it-now.jpg)
+
+## Same-directory images
+
+![Bee](bee.png)
+
+![Business High Five](business-high-five.gif)
+
+## Remote URL
+
+![GitHub Mark](https://github.githubassets.com/favicons/favicon.png)
