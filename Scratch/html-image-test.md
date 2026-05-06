@@ -4,31 +4,31 @@ Test cases for HTML \`<img>\` tag rendering in the editor.
 
 ## Basic Image
 
-<img src="cool-parrot.gif" alt="Cool parrot" />
+![Cool parrot](cstore-file:///Users/jlong/Documents/ContextStore/personal-docs-space/Scratch/cool-parrot.gif "Cool parrot")
 
 ## Right-Aligned Image
 
-<img src="batman-thinking.gif" align="right" width="160" alt="Batman thinking" />
+![Batman thinking](cstore-file:///Users/jlong/Documents/ContextStore/personal-docs-space/Scratch/batman-thinking.gif "Batman thinking")
 
 This paragraph should wrap around the image which is floated to the right side. The image has an explicit width of 160 pixels. Text continues to flow normally on the left side of the image. Adding more text here so we can see the wrapping behavior clearly.
 
 ## Left-Aligned Image
 
-<img src="business-high-five.gif" align="left" width="160" alt="Business high five" />
+![Business high five](cstore-file:///Users/jlong/Documents/ContextStore/personal-docs-space/Scratch/business-high-five.gif "Business high five")
 
 This paragraph should wrap around the image which is floated to the left side. The image has an explicit width of 160 pixels. Text continues to flow normally on the right side of the image. Adding more text here so we can see the wrapping behavior clearly.
 
 ## Center-Aligned Image
 
-<img src="../Images/contextstore.png" align="center" width="200" alt="ContextStore logo" />
+![ContextStore logo](cstore-file:///Users/jlong/Documents/ContextStore/personal-docs-space/Images/contextstore.png "ContextStore logo")
 
 ## Width and Height
 
-<img src="../Images/arnold-do-it-now.jpg" width="200" height="150" alt="Arnold" />
+![Arnold](cstore-file:///Users/jlong/Documents/ContextStore/personal-docs-space/Images/arnold-do-it-now.jpg "Arnold")
 
 ## Void Form (No Trailing Slash)
 
-<img src="../Images/approved.png" alt="Approved" width="64">
+![Approved](cstore-file:///Users/jlong/Documents/ContextStore/personal-docs-space/Images/approved.png "Approved")
 
 ## Remote URL
 
