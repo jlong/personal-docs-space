@@ -14,6 +14,8 @@ Text that should wrap around the image on the right side. Adding more text here 
 
 Text that should wrap around the image on the left side. Adding more text here so we can see the wrapping behavior clearly. The image should float to the left.
 
+***
+
 ## Security: Blocked Source
 
 <img src="javascript:alert('xss')" alt="JS injection" />
