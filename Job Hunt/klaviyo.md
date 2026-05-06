@@ -10,7 +10,7 @@
 
 <br />
 
-**Strategic Questions**
+**Strategic Questions that show you've thought about the role strategically**
 
 - The JD talks about putting AI "at the center" of design workflows. Where is the team today on that — early experimentation, or are there established practices you'd be building on?
 
