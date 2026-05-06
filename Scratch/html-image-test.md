@@ -1,6 +1,6 @@
 # HTML Image Test
 
-Test cases for HTML `<img>` tag rendering in the editor.
+Test cases for HTML \`<img>\` tag rendering in the editor.
 
 ## Basic HTTP Image
 
