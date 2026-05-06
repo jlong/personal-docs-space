@@ -2,35 +2,35 @@
 
 Test cases for HTML \`<img>\` tag rendering in the editor.
 
-## Basic HTTP Image
+## Basic Image
 
-<img src="https://picsum.photos/300/200" alt="Random photo" />
+<img src="cool-parrot.gif" alt="Cool parrot" />
 
 ## Right-Aligned Image
 
-<img src="https://github.githubassets.com/favicons/favicon.png" align="right" width="64" />
+<img src="batman-thinking.gif" align="right" width="160" alt="Batman thinking" />
 
-This paragraph should wrap around the GitHub favicon which is floated to the right side. The image has an explicit width of 64 pixels. Text continues to flow normally on the left side of the image.
+This paragraph should wrap around the image which is floated to the right side. The image has an explicit width of 160 pixels. Text continues to flow normally on the left side of the image. Adding more text here so we can see the wrapping behavior clearly.
 
 ## Left-Aligned Image
 
-<img src="https://github.githubassets.com/favicons/favicon.png" align="left" width="64" />
+<img src="business-high-five.gif" align="left" width="160" alt="Business high five" />
 
-This paragraph should wrap around the GitHub favicon which is floated to the left side. The image has an explicit width of 64 pixels. Text continues to flow normally on the right side of the image.
+This paragraph should wrap around the image which is floated to the left side. The image has an explicit width of 160 pixels. Text continues to flow normally on the right side of the image. Adding more text here so we can see the wrapping behavior clearly.
 
 ## Center-Aligned Image
 
-<img src="https://picsum.photos/400/150" align="center" alt="Centered photo" />
+<img src="../Images/contextstore.png" align="center" width="200" alt="ContextStore logo" />
 
 ## Width and Height
 
-<img src="https://picsum.photos/600/400" width="200" height="133" alt="Resized photo" />
+<img src="../Images/arnold-do-it-now.jpg" width="200" height="150" alt="Arnold" />
 
 ## Void Form (No Trailing Slash)
 
-<img src="https://picsum.photos/150/150" alt="Void form test">
+<img src="../Images/approved.png" alt="Approved" width="64">
 
-## Relative Path (Local Image)
+## Remote URL
 
 <img src="../Images/contextstore.png" width="128" alt="ContextStore logo" />
 
