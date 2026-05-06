@@ -2,35 +2,35 @@
 
 Test cases for HTML \`<img>\` tag rendering in the editor.
 
-## Basic Image
+## Basic HTTP Image
 
-![Cool parrot](cstore-file:///Users/jlong/Documents/ContextStore/personal-docs-space/Scratch/cool-parrot.gif "Cool parrot")
+<img src="https://picsum.photos/300/200" alt="Random photo" />
 
 ## Right-Aligned Image
 
-![Batman thinking](cstore-file:///Users/jlong/Documents/ContextStore/personal-docs-space/Scratch/batman-thinking.gif "Batman thinking")
+<img src="https://github.githubassets.com/favicons/favicon.png" align="right" width="64" />
 
-This paragraph should wrap around the image which is floated to the right side. The image has an explicit width of 160 pixels. Text continues to flow normally on the left side of the image. Adding more text here so we can see the wrapping behavior clearly.
+This paragraph should wrap around the GitHub favicon which is floated to the right side. The image has an explicit width of 64 pixels. Text continues to flow normally on the left side of the image.
 
 ## Left-Aligned Image
 
-![Business high five](cstore-file:///Users/jlong/Documents/ContextStore/personal-docs-space/Scratch/business-high-five.gif "Business high five")
+<img src="https://github.githubassets.com/favicons/favicon.png" align="left" width="64" />
 
-This paragraph should wrap around the image which is floated to the left side. The image has an explicit width of 160 pixels. Text continues to flow normally on the right side of the image. Adding more text here so we can see the wrapping behavior clearly.
+This paragraph should wrap around the GitHub favicon which is floated to the left side. The image has an explicit width of 64 pixels. Text continues to flow normally on the right side of the image.
 
 ## Center-Aligned Image
 
-![ContextStore logo](cstore-file:///Users/jlong/Documents/ContextStore/personal-docs-space/Images/contextstore.png "ContextStore logo")
+<img src="https://picsum.photos/400/150" align="center" alt="Centered photo" />
 
 ## Width and Height
 
-![Arnold](cstore-file:///Users/jlong/Documents/ContextStore/personal-docs-space/Images/arnold-do-it-now.jpg "Arnold")
+<img src="https://picsum.photos/600/400" width="200" height="133" alt="Resized photo" />
 
 ## Void Form (No Trailing Slash)
 
-![Approved](cstore-file:///Users/jlong/Documents/ContextStore/personal-docs-space/Images/approved.png "Approved")
+<img src="https://picsum.photos/150/150" alt="Void form test">
 
-## Remote URL
+## Relative Path (Local Image)
 
 <img src="../Images/contextstore.png" width="128" alt="ContextStore logo" />
 
