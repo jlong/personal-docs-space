@@ -16,7 +16,7 @@
 
 - How has the design org evolved as Klaviyo has shifted its positioning toward B2C CRM? Has that created new design challenges, or mostly extended existing ones?
 
-**Questions that reveal what success actually looks like**
+**Role Success Criteria**
 
 - What would you want someone in this role to have accomplished in the first year that would make you feel great about the hire?
 
