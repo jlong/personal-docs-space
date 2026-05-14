@@ -4,6 +4,6 @@
 
    \<Chrome.Navigation />
 
-   \<Chrome.Content />
+   { children }
 
 \</Chrome>
