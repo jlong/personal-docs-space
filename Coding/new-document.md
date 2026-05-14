@@ -4,6 +4,6 @@
 
 \<Navigation />
 
-<
+\<Content />
 
 \</Chrome>
