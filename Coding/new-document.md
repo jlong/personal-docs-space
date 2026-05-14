@@ -2,8 +2,8 @@
 
 \<Chrome>
 
-\<Chrome.Navigation />
+   \<Chrome.Navigation />
 
-\<Chrome.Content />
+   \<Chrome.Content />
 
 \</Chrome>
