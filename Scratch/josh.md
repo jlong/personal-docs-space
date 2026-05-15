@@ -32,10 +32,8 @@ There are some lines that once crossed cannot be undone. Forgiven yes, but conse
 
 Ask yourself why your closest counselors, your parents, and your friends are all recommending patience. Are all of us wrong? Your situation is not that exceptional that clearly you must ignore the counsel of those closest to you. You have other options.
 
-<br />
-
 **"**Without counsel plans fail, but with many advisers they succeed.” Proverbs 15:22
 
 "Plans are established by counsel; by wise guidance wage war.” Proverbs 20:18
 
-"My son, do not lose sight of these—keep sound wisdom and discretion, and they will be life for your souland adornment for your neck. Then you will walk on your way securely, and your foot will not stumble.” 
+"My son, do not lose sight of these—keep sound wisdom and discretion, and they will be life for your souland adornment for your neck. Then you will walk on your way securely, and your foot will not stumble.” Proverbs 3:21-23
