@@ -24,7 +24,11 @@ You are jumping from step 3 to step 12 without doing the work to ensure that it 
 
 I don’t know that you can find a biblical reason for divorce. It seems strange that you would invoke the business as a reason for it. You may be fed up with Judith, but you made vows to her and those vows still mean something to God. Perhaps you don’t actually intend to divorce, only to threaten it, but this is not a response of love. Threats only come from a place of fear and dispare. In either case, if you pursue this you will regret it for the rest of your life.
 
-Play this out in your head. Even in a better case taking legal action will most likely result in making the situation more dificcult for you, your wife, and your children. It could result in the children bening placed in other homes. And while Jenica and Alex are not your first choice there are worse places (much worse) that they can be placed by the state. At least at the moment there is one parent who loves them and is nearby.
+Play this out in your head.
+
+Even in a better case taking legal action will most likely result in making the situation more dificcult for you, your wife, and your children. It could result in the children bening placed in other homes. And while Jenica and Alex are not your first choice there are worse places (much worse) that they can be placed by the state. At least at the moment there is one parent who loves them and is nearby.
+
+<br />
 
 There are some lines that once crossed are very difficult to walk back on. Tread carefully. Much of eternal importance depends on how you carry yourself over the next few days and months.
 
