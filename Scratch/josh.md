@@ -24,7 +24,9 @@ You are jumping from step 3 to step 12 without doing the work to ensure that it 
 
 I don’t know that you can find a biblical reason for divorce. It seems strange that you would invoke the business as a reason for it. You may be fed up with Judith, but you made vows to her and those vows still mean something to God. Perhaps you don’t actually intend to divorce, only to threaten it, but this is not a response of love. Threats only come from a place of fear and dispare. In either case, if you pursue this you will regret it for the rest of your life.
 
-As for the business it seems that 1 Corinthians 
+As for the business it seems that 1 Corinthians 6 is very applicable:
+
+When one of you has a grievance against another, does he dare go to law before the unrighteous instead of the saints?** **Or do you not know that the saints will judge the world? And if the world is to be judged by you, are you incompetent to try trivial cases?** **Do you not know that we are to judge angels? How much more, then, matters pertaining to this life! **4 **So if you have such cases, *[t](https://www.esv.org/1Co5.12 "\[ch. 5:12]")*why do you lay them before those who have no standing in the church? **5 ***[u](https://www.esv.org/1Co15.34%3B1Co4.14 "ch. 15:34; \[ch. 4:14]")*I say this to your shame. Can it be that there is no one among you wise enough to settle a dispute between the brothers, **6 **but brother goes to law against brother, and that before unbelievers? **7 **To have lawsuits at all with one another is already a defeat for you. *[v](https://www.esv.org/Mt5.39-40 "\[Matt. 5:39, 40]")*Why not rather suffer wrong? Why not rather be defrauded? **8 **But you yourselves wrong and defraud—even *[w](https://www.esv.org/1Th4.6 "1 Thess. 4:6")*your own brothers!*[1](https://www.esv.org/1+Corinthians+5/#f1- "<span class=\"footnote-embedded\">Or <i><span class=\"catch-word\">brothers</span> and sisters</i></span>")*
 
 Play this out in your head.
 
