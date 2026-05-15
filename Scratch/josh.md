@@ -38,3 +38,12 @@ Ask yourself why your closest counselors, your parents, and your friends are all
 
 "Plans are established by counsel; by wise guidance wage war.” Proverbs 20:18
 
+"My son, do not lose sight of these—keep sound wisdom and discretion,
+
+**22 ** and they will be *[i](https://www.esv.org/Pr4.22 "See ch. 4:22")*life for your soul
+
+and *[j](https://www.esv.org/Pr1.9 "\[ch. 1:9]")*adornment for your neck.
+
+**23 ** *[k](https://www.esv.org/Pr10.9%3BPr28.18%3BPs91.11 "ch. 10:9; \[ch. 28:18; Ps. 91:11]")*Then you will walk on your way securely,
+
+*[l](https://www.esv.org/Pr4.12%3BPs91.12 "ch. 4:12; Ps. 91:12")*and your foot will not stumble.
