@@ -12,4 +12,9 @@ I am supportive of you taking actions to preserve your rights with the children.
 
 Maybe you could explain to me why you feel so compelled to press the business issues right now. Certainly she can do a better job of communicating with you. I understand that. But to jump straight to splitting up the businesses seems like a leap. I understand you want more control of your own money. Given that you are separated this seems very reasonable. But you don’t need to split the business in order to take a salary or to move money into your own accounts. I would suggest that you can simply inform Judith that you are doing so.
 
-Going beyond this right now seems like it only invites harm. The impulse to get the elders involved is correct. How can you expect your wife to submit to you if you are not submitting yourself to the church? I realize it’s not on the timeline that you desire, but you do need to be patient. In most situations that I’ve witnessed in my church experience elders do act slowly especially in issues that require great care. I don’t think your situation is exceptional there.
+Going beyond this right now seems like it only invites harm. The impulse to get the elders involved is correct. How can you expect your wife to submit to you if you are not submitting yourself to the church?
+
+"Likewise, you who are younger, be subject to the elders. Clothe yourselves, all of you, with humility toward one another, for 'God opposes the proud but gives grace to the humble.’”  1 Peter 5:5
+
+I realize it’s not on the timeline that you desire, but you do need to be patient. In most situations that I’ve witnessed in my church experience elders do act slowly especially in issues that require great care. I don’t think your situation is exceptional here. You need to give time and patiently press for action.
+
