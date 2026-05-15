@@ -18,6 +18,6 @@ Going beyond this right now seems like it only invites harm. The impulse to get 
 
 I realize the elders have not acted as quickly as you desire, but you do need to be patient. In most situations that I’ve witnessed in my church experience elders do act slowly especially in issues that require great care. I don’t think your situation is exceptional here. You need to give time and patiently press for action.
 
-You are jumping from step 3 to step 12 without doing the work to ensure that it is the only course of action.
+You are jumping from step 3 to step 12 without doing the work to ensure that it is the only course of action. As far as I am aware no one 
 
 I don’t know that you can find a biblical reason for divorce. It seems strange that you would invoke the business as a reason for it. You may be fed up with Judith, but you made vows to her and those vows still mean something to God.
