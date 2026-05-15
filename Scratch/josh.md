@@ -14,7 +14,7 @@ Maybe you could explain to me why you feel so compelled to press the business is
 
 Going beyond this right now only invites harm.
 
-The impulse to get the elders involved is correct. How can you expect your wife to submit to you if you are not submitting yourself to the church?
+The impulse to get the elders involved was correct. How can you expect your wife to submit to you if you are not submitting yourself to the church?
 
 "Likewise, you who are younger, be subject to the elders. Clothe yourselves, all of you, with humility toward one another, for 'God opposes the proud but gives grace to the humble.’”  1 Peter 5:5
 
