@@ -26,7 +26,9 @@ I don’t know that you can find a biblical reason for divorce. It seems strange
 
 As for the business it seems that 1 Corinthians 6 is very applicable:
 
-When one of you has a grievance against another, does he dare go to law before the unrighteous instead of the saints?** **Or do you not know that the saints will judge the world? And if the world is to be judged by you, are you incompetent to try trivial cases?** **Do you not know that we are to judge angels? How much more, then, matters pertaining to this life! **4 **So if you have such cases, why do you lay them before those who have no standing in the church? I say this to your shame. Can it be that there is no one among you wise enough to settle a dispute between the brothers, but brother goes to law against brother, and that before unbelievers? To have lawsuits at all with one another is already a defeat for you. Why not rather suffer wrong? Why not rather be defrauded? But you yourselves wrong and defraud—even your own brothers!*["](https://www.esv.org/1+Corinthians+5/#f1- "<span class=\"footnote-embedded\">Or <i><span class=\"catch-word\">brothers</span> and sisters</i></span>")*
+"When one of you has a grievance against another, does he dare go to law before the unrighteous instead of the saints?** **Or do you not know that the saints will judge the world? And if the world is to be judged by you, are you incompetent to try trivial cases?** **Do you not know that we are to judge angels? How much more, then, matters pertaining to this life! **4 **So if you have such cases, why do you lay them before those who have no standing in the church? I say this to your shame. Can it be that there is no one among you wise enough to settle a dispute between the brothers, but brother goes to law against brother, and that before unbelievers? To have lawsuits at all with one another is already a defeat for you. Why not rather suffer wrong? Why not rather be defrauded? But you yourselves wrong and defraud—even your own brothers!” 1 Corinthians 6:1-8
+
+<br />
 
 Play this out in your head.
 
