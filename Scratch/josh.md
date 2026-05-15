@@ -12,10 +12,6 @@ I am supportive of you taking actions to preserve your rights with the children.
 
 Maybe you could explain to me why you feel so compelled to press the business issues right now. Certainly she can do a better job of communicating with you. I understand that. But to jump straight to splitting up the businesses seems like a leap. I understand you want more control of your own money. Given that you are separated this seems very reasonable. But you don’t need to split the business in order to take a salary or to move money into your own accounts. I would suggest that you can simply inform Judith that you are doing so.
 
-As for the business it seems that 1 Corinthians 6 is very applicable:
-
-"When one of you has a grievance against another, does he dare go to law before the unrighteous instead of the saints?** **Or do you not know that the saints will judge the world? And if the world is to be judged by you, are you incompetent to try trivial cases?** **Do you not know that we are to judge angels? How much more, then, matters pertaining to this life! **4 **So if you have such cases, why do you lay them before those who have no standing in the church? I say this to your shame. Can it be that there is no one among you wise enough to settle a dispute between the brothers, but brother goes to law against brother, and that before unbelievers? To have lawsuits at all with one another is already a defeat for you. Why not rather suffer wrong? Why not rather be defrauded? But you yourselves wrong and defraud—even your own brothers!” 1 Corinthians 6:1-8
-
 Going beyond this right now only invites harm.
 
 The impulse to get the elders involved is correct. How can you expect your wife to submit to you if you are not submitting yourself to the church?
