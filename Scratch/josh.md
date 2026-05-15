@@ -32,3 +32,4 @@ There are some lines that once crossed cannot be undone. Forgiven yes, but conse
 
 Ask yourself why your closest counselors, your parents, and your friends are all recommending patience. Are all of us wrong? Your situation is not that exceptional that clearly you must ignore the counsel of those closest to you. You have other options.
 
+BTW, I sp
