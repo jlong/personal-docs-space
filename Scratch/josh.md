@@ -18,4 +18,4 @@ Going beyond this right now seems like it only invites harm. The impulse to get 
 
 I realize the elders have not acted as quickly as you desire, but you do need to be patient. In most situations that I’ve witnessed in my church experience elders do act slowly especially in issues that require great care. I don’t think your situation is exceptional here. You need to give time and patiently press for action.
 
-You are jumping from step 3 to step 12 without doing the work t
+You are jumping from step 3 to step 12 without doing the work to ensure that it is the only course of action. 
