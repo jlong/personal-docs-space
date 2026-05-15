@@ -36,4 +36,4 @@ Ask yourself why your closest counselors, your parents, and your friends are all
 
 **"**Without counsel plans fail, but with many advisers they succeed.” Proverbs 15:22
 
-Plans are established by counsel; by wise guidance wage war.
+"Plans are established by counsel; by wise guidance wage war.” 
