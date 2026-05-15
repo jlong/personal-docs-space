@@ -37,3 +37,6 @@ Ask yourself why your closest counselors, your parents, and your friends are all
 "Plans are established by counsel; by wise guidance wage war.” Proverbs 20:18
 
 "My son, do not lose sight of these—keep sound wisdom and discretion, and they will be life for your souland adornment for your neck. Then you will walk on your way securely, and your foot will not stumble.” Proverbs 3:21-23
+
+<br />
+
