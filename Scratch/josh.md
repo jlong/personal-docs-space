@@ -34,6 +34,4 @@ Ask yourself why your closest counselors, your parents, and your friends are all
 
 <br />
 
-**22 ** *[n](https://www.esv.org/Pr11.14%3BPr20.18 "ch. 11:14; \[ch. 20:18]")*Without counsel plans fail,
-
-but with many advisers they succeed. 
+**"**Without counsel plans fail, but with many advisers they succeed.” Proverbs
