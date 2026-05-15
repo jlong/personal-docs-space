@@ -18,7 +18,7 @@ The impulse to get the elders involved was correct. How can you expect your wife
 
 "Likewise, you who are younger, be subject to the elders. Clothe yourselves, all of you, with humility toward one another, for 'God opposes the proud but gives grace to the humble.’”  1 Peter 5:5
 
-I realize the elders have not acted as quickly as you desire, but you do need to be patient. Elders can be slow to act on issues that require great care. I don’t think your situation is exceptional here. You need to give time and patiently press for action.
+I realize the elders have not acted as quickly as you desire, but you do need to be patient. Elders can be slow to act on issues that require consensus and great care. I don’t think your situation is exceptional here. You need to give time and patiently press for action.
 
 You are jumping from step 3 to step 12 without doing the work to ensure that it is the only course of action.
 
