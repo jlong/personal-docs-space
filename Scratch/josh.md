@@ -26,9 +26,7 @@ I don’t know that you can find a biblical reason for divorce. It seems strange
 
 Play this out in your head.
 
-Even in a better case scenario taking legal action will most likely result in making the situation far more dificcult for you, your wife, and your children. It could result in the children bening placed in other homes. And while Jenica and Alex are not your first choice there are worse places (much worse) that they can be placed by the state. At least at the moment there is one parent who loves them and is nearby. In a worse case scenario you could lose a
-
-<br />
+Even in a better case scenario taking legal action will most likely result in making the situation far more dificcult for you, your wife, and your children. It could result in the children bening placed in other homes. And while Jenica and Alex are not your first choice there are worse places (much worse) that they can be placed by the state. At least at the moment there is one parent who loves them and is nearby. In a worse case scenario you could lose access to the children completely.
 
 There are some lines that once crossed are very difficult to walk back on. Tread carefully. Much of eternal importance depends on how you carry yourself over the next few days and months.
 
