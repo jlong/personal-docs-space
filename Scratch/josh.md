@@ -24,7 +24,7 @@ You are jumping from step 3 to step 12 without doing the work to ensure that it 
 
 I don’t know that you can find a biblical reason for divorce. It seems strange that you would invoke the business as a reason for it. You may be fed up with Judith, but you made vows to her and those vows still mean something to God. Perhaps you don’t actually intend to divorce, only to threaten it, but this is not a response of love. Threats only come from a place of fear and dispare. In either case, if you pursue this you will regret it for the rest of your life.
 
-Play this out in your head. Even in a better case 
+Play this out in your head. Even in a better case taking legal action will most likely result in
 
 There are some lines that once crossed are very difficult to walk back on. Tread carefully. Much of eternal importance depends on how you carry yourself over the next few days and months.
 
