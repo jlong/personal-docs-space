@@ -24,7 +24,9 @@ Part of submission really is being willing to wait. Waiting shows that you are s
 
 You are jumping from step 3 to step 12 without doing the work to ensure that it is the only course of action.
 
-Also in your situation, I can't find a biblical reason for divorce. It seems strange that you would invoke the business as a reason for it.
+Also in your situation, I can't find a biblical reason for divorce. It seems strange that you would invoke the business as a reason for it. 1 Corinthians 6 is very applicable:
+
+"When one of you has a grievance against another, does he dare go to law before the unrighteous instead of the saints?** **Or do you not know that the saints will judge the world? And if the world is to be judged by you, are you incompetent to try trivial cases?** **Do you not know that we are to judge angels? How much more, then, matters pertaining to this life! **4 **So if you have such cases, why do you lay them before those who have no standing in the church? I say this to your shame. Can it be that there is no one among you wise enough to settle a dispute between the brothers, but brother goes to law against brother, and that before unbelievers? To have lawsuits at all with one another is already a defeat for you. Why not rather suffer wrong? Why not rather be defrauded? But you yourselves wrong and defraud—even your own brothers!” 1 Corinthians 6:1-8
 
 You may be fed up with Judith, but you made vows to her and those vows still mean something to God. Perhaps you don’t actually intend to divorce, only to threaten it, but this is not a response of love. Threats only come from a place of fear and dispare. In either case, if you pursue this you will regret it for the rest of your life.
 
