@@ -20,4 +20,4 @@ I realize the elders have not acted as quickly as you desire, but you do need to
 
 You are jumping from step 3 to step 12 without doing the work to ensure that it is the only course of action.
 
-I don’t know that you can find a biblical reason for divorce. It seems strange that you would invoke the business as a reason for it. You may be fed up with Judith, but you made vows to her and those vows still mean something to God. Perhaps you don’t actually intend to divorce, but to bring it up at all is a desparate move.
+I don’t know that you can find a biblical reason for divorce. It seems strange that you would invoke the business as a reason for it. You may be fed up with Judith, but you made vows to her and those vows still mean something to God. Perhaps you don’t actually intend to divorce, but to bring it up at all is a desparate move. Far better to pursue
