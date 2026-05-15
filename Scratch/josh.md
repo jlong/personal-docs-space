@@ -16,5 +16,5 @@ Going beyond this right now seems like it only invites harm. The impulse to get 
 
 "Likewise, you who are younger, be subject to the elders. Clothe yourselves, all of you, with humility toward one another, for 'God opposes the proud but gives grace to the humble.’”  1 Peter 5:5
 
-I realize it’s not on the timeline that you desire, but you do need to be patient. In most situations that I’ve witnessed in my church experience elders do act slowly especially in issues that require great care. I don’t think your situation is exceptional here. You need to give time and patiently press for action.
+I realize the elders have not acted as quickly as you desire, but you do need to be patient. In most situations that I’ve witnessed in my church experience elders do act slowly especially in issues that require great care. I don’t think your situation is exceptional here. You need to give time and patiently press for action.
 
