@@ -28,7 +28,7 @@ Part of submission really is being willing to wait. Waiting shows that you are s
 
 You are jumping from step 3 to step 12 without doing the work to ensure that it is the only course of action.
 
-I don’t know that you can find a biblical reason for divorce. It seems strange that you would invoke the business as a reason for it. You may be fed up with Judith, but you made vows to her and those vows still mean something to God. Perhaps you don’t actually intend to divorce, only to threaten it, but this is not a response of love. Threats only come from a place of fear and dispare. In either case, if you pursue this you will regret it for the rest of your life.
+I c find a biblical reason for divorce. It seems strange that you would invoke the business as a reason for it. You may be fed up with Judith, but you made vows to her and those vows still mean something to God. Perhaps you don’t actually intend to divorce, only to threaten it, but this is not a response of love. Threats only come from a place of fear and dispare. In either case, if you pursue this you will regret it for the rest of your life.
 
 Play this out in your head.
 
