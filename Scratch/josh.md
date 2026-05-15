@@ -34,4 +34,5 @@ Ask yourself why your closest counselors, your parents, and your friends are all
 
 <br />
 
-**"**Without counsel plans fail, but with many advisers they succeed.” Proverbs
+**"**Without counsel plans fail, but with many advisers they succeed.” Proverbs 15:22
+
