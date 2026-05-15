@@ -30,4 +30,10 @@ Even in a better case scenario taking legal action will most likely result in ma
 
 There are some lines that once crossed cannot be undone. Forgiven yes, but consequences live on. Tread carefully. Much of eternal importance depends on how you carry yourself over the next few days and months.
 
-Ask yourself why your closest counselors, your parents, and your friends are all recommending patience. Are all of us wrong? Your situation is not that exceptional that clearly you must ignore the counsel of those closest to you. You have other options. 
+Ask yourself why your closest counselors, your parents, and your friends are all recommending patience. Are all of us wrong? Your situation is not that exceptional that clearly you must ignore the counsel of those closest to you. You have other options.
+
+<br />
+
+**22 ** *[n](https://www.esv.org/Pr11.14%3BPr20.18 "ch. 11:14; \[ch. 20:18]")*Without counsel plans fail,
+
+but with many advisers they succeed. 
