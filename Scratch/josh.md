@@ -22,7 +22,9 @@ The impulse to get the elders involved is correct. How can you expect your wife 
 
 "Likewise, you who are younger, be subject to the elders. Clothe yourselves, all of you, with humility toward one another, for 'God opposes the proud but gives grace to the humble.’”  1 Peter 5:5
 
-I realize the elders have not acted as quickly as you desire, but elders can be slow to act on issues that require  great care. I don’t think your situation is exceptional here. You need to give time. Part of submission really is being willing to wait. Waiting shows that you are submitting yourself to God.
+I realize the elders have not acted as quickly as you desire, but elders can be slow to act on issues that require  great care. What is more it seems that there is a difference of opinion on how it should be handled. You need to give time.
+
+Part of submission really is being willing to wait. Waiting shows that you are submitting yourself to God.
 
 You are jumping from step 3 to step 12 without doing the work to ensure that it is the only course of action.
 
