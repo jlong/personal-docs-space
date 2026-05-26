@@ -3,6 +3,7 @@
 ```tsx
 <Chrome.Header>
   <Chrome.Header.Details>
+     <Button
      <Chrome.Header.Title>Page Title</Chrome.Header.Title>
   </Chrome.Header.Details>
   <Chrome.Header.Tabs>
