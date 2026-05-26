@@ -2,6 +2,8 @@
 
 ```tsx
 <Chrome.Header>
-  <Chrome.Header.
+  <Chrome.Header.Details>
+  </Chrome.Header.Details>
+
 </Chrome.Header>
 ```
