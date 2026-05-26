@@ -12,6 +12,7 @@
   <Chrome.Header.Actions>
   </Chrome>
   <Chrome.HeaderFilters>
+    ...
   </Chrome.Header.Filters>
 </Chrome.Header>
 ```
