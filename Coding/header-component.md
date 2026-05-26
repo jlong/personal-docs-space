@@ -9,5 +9,7 @@
   <Chrome.Header.Tabs>
     ...
   </Chrome.Header.Tabs>
+  <Chrome.Header.Actions>
+  </Chrome>
 </Chrome.Header>
 ```
