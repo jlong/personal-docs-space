@@ -2,12 +2,14 @@
 
 ## Summary
 
-**Moby Dick**, written by Herman Melville and published in 1851, is an epic novel about the obsessive quest of Captain Ahab to hunt down a great white whale that destroyed his ship and took his leg years before.
+Big book. Man named Melville write story long time ago. Year 1851. Story about angry captain man named Ahab. White whale destroy his ship. Whale eat captain leg! Captain very very ANGRY. Captain want revenge BAD.
 
-The story is narrated by Ishmael, a sailor who joins the crew of the whaling ship *Pequod*. Ahab leads his diverse crew of whalemen on a dangerous journey across the oceans in pursuit of Moby Dick, the legendary white whale. As the voyage progresses, Ahab's obsession grows increasingly manic and destructive, consuming everyone around him.
+Captain go on big ship called Pequod. Get crew of mens. Go hunt whale. Hunt hunt hunt whale on big water. Narrator man named Ishmael tell story. Ishmael say "Me go on ship too."
 
-The novel explores themes of ambition, vengeance, fate, and man's struggle against nature. Through vivid descriptions of whale hunting, philosophical discussions about humanity's place in the world, and complex character development, Melville creates a profound meditation on obsession and its consequences.
+Captain Ahab crazy. Obsession grow big big BIG. Ahab think only about whale whale WHALE. Whale name Moby Dick. Whale LEGENDARY. White like snow. Ahab drag everyone into madness with him.
 
-The novel culminates in a catastrophic final confrontation between the *Pequod* and Moby Dick, resulting in tragedy and the loss of nearly all crew members. Only Ishmael survives, clinging to a coffin, to tell the tale.
+Book talk about: Want power too much. Want revenge too much. Fate and doom. Mans fight nature. Mans fight big whale. Whale win every time. Book have long talk about hunting whale. Have talk about mans place in world. Character very complex.
 
-Moby Dick is considered one of the greatest works of American literature and a masterpiece of world literature, blending adventure, philosophy, and tragedy into a timeless narrative.
+Then... BIG FIGHT! Ship and whale go CRASH BOOM! Many many mans die. Blood everywhere. Ship go down down DOWN. Only Ishmael live! He hold onto wood box. Float float float in water. Then Ishmael tell whole story to us.
+
+Book VERY IMPORTANT. American peoples say is greatest book ever write. World say is masterpiece. Have adventure. Have big think thoughts. Have sad sad ending. Story last forever.
