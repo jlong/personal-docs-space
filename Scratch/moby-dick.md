@@ -8,6 +8,6 @@ The story is narrated by Ishmael, a sailor who joins the crew of the whaling shi
 
 The novel explores themes of ambition, vengeance, fate, and man's struggle against nature. Through vivid descriptions of whale hunting, philosophical discussions about humanity's place in the world, and complex character development, Melville creates a profound meditation on obsession and its consequences.
 
-Big whale and ship go BOOM! Many mans die. White whale win fight. Only Ishmael live. He hold onto dead mans box. Float float float. Then tell story to you.
+The novel culminates in a catastrophic final confrontation between the *Pequod* and Moby Dick, resulting in tragedy and the loss of nearly all crew members. Only Ishmael survives, clinging to a coffin, to tell the tale.
 
 Moby Dick is considered one of the greatest works of American literature and a masterpiece of world literature, blending adventure, philosophy, and tragedy into a timeless narrative.
