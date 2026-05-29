@@ -1,4 +1,12 @@
-# The Picture of Dorian Gray - Novel Summary
+---
+title: "The Picture of Dorian Gray"
+author: "Oscar Wilde"
+published: 1890
+genre: Gothic Fiction, Philosophical Novel
+summary: Wilde’s tale of art, beauty, and moral corruption follows Dorian Gray’s descent as his portrait ages but he does not.
+---
+
+# The Picture of Dorian Gray
 
 **Author:** Oscar Wilde  
 **Published:** 1890  

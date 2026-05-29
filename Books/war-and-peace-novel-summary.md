@@ -1,4 +1,12 @@
-# War and Peace - Novel Summary
+---
+title: "War and Peace"
+author: "Leo Tolstoy"
+published: 1869
+genre: Historical Epic, Philosophical Novel
+summary: Tolstoy’s monumental work fuses the sweep of history and war with intimate explorations of love, family, and destiny in 19th-century Russia.
+---
+
+# War and Peace
 
 War and Peace is Leo Tolstoy’s sweeping epic set against the backdrop of the Napoleonic Wars and Russian society in the early 19th century. Divided into four volumes and an epilogue, the novel weaves together the lives of aristocratic families, explores the nature of history and free will, and examines love, honor, and destiny.
 

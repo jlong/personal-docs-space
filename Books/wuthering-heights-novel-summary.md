@@ -1,4 +1,12 @@
-# Wuthering Heights - Novel Summary
+---
+title: "Wuthering Heights"
+author: "Emily Brontë"
+published: 1847
+genre: Gothic Fiction, Tragedy
+summary: Emily Brontë’s singular novel is a tempestuous tale of passion, revenge, and generational conflict set amid the wild Yorkshire moors.
+---
+
+# Wuthering Heights
 
 ## Overview
 "Wuthering Heights" is a dark and brooding Gothic novel published in 1847 by Emily Brontë under the pseudonym "Bell Ellis." It stands as one of the most complex and haunting works of English literature, exploring themes of passion, revenge, and the destructive nature of obsessive love.

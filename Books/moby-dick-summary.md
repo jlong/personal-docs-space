@@ -1,4 +1,12 @@
-# Moby-Dick - Novel Summary
+---
+title: "Moby-Dick"
+author: "Herman Melville"
+published: 1851
+genre: Adventure Fiction, Epic, Philosophical Novel
+summary: Melville’s epic tale journeys into obsession, fate, and humanity, as Captain Ahab hunts a legendary white whale across the globe.
+---
+
+# Moby-Dick
 
 **Author:** Herman Melville  
 **Published:** 1851  

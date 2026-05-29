@@ -1,4 +1,12 @@
-# The Count of Monte Cristo - Novel Summary
+---
+title: "The Count of Monte Cristo"
+author: "Alexandre Dumas"
+published: 1844–1846
+genre: Adventure, Historical Fiction
+summary: Dumas’s sweeping saga of imprisonment, escape, and revenge explores justice, identity, and forgiveness in post-Napoleonic France.
+---
+
+# The Count of Monte Cristo
 
 **Author:** Alexandre Dumas  
 **Published:** 1844-1846 (serialized), 1846 (complete)  

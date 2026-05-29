@@ -1,4 +1,12 @@
-# The Strange Case of Dr. Jekyll and Mr. Hyde - Novel Summary
+---
+title: "The Strange Case of Dr. Jekyll and Mr. Hyde"
+author: "Robert Louis Stevenson"
+published: 1886
+genre: Gothic Fiction, Psychological Thriller
+summary: Stevenson’s novella explores the duality of human nature as Dr. Jekyll’s quest for freedom from moral restraint unleashes his monstrous alter ego.
+---
+
+# The Strange Case of Dr. Jekyll and Mr. Hyde
 
 **Author:** Robert Louis Stevenson  
 **Published:** 1886  

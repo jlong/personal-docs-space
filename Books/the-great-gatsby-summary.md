@@ -1,4 +1,12 @@
-# The Great Gatsby Summary
+---
+title: "The Great Gatsby"
+author: "F. Scott Fitzgerald"
+published: 1925
+genre: Modernist Novel, Tragedy
+summary: Fitzgerald’s Jazz Age masterpiece tells of Jay Gatsby’s doomed pursuit of love and the illusions of the American Dream.
+---
+
+# The Great Gatsby
 
 ## Overview
 **The Great Gatsby** is a novel by F. Scott Fitzgerald, published in 1925. Set in the Jazz Age of 1920s New York, it tells the story of Jay Gatsby's obsessive pursuit of his lost love, Daisy Buchanan. The novel is widely regarded as the greatest American novel and a masterpiece of 20th-century literature.

@@ -1,4 +1,12 @@
-# Pride and Prejudice - Novel Summary
+---
+title: "Pride and Prejudice"
+author: "Jane Austen"
+published: 1813
+genre: Romance, Social Commentary
+summary: Jane Austen’s witty romantic classic follows Elizabeth Bennet as she navigates love, class, and self-discovery in Regency England.
+---
+
+# Pride and Prejudice
 
 ## Overview
 

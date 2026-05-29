@@ -1,4 +1,12 @@
-# The Iliad - Epic Poem Summary
+---
+title: "The Iliad"
+author: "Homer"
+published: 8th century BCE
+genre: Epic Poetry, Classical Literature
+summary: Homer’s foundational epic dramatizes the wrath of Achilles and the tragic cost of war during the final weeks of the Trojan conflict.
+---
+
+# The Iliad
 
 ## Overview
 *The Iliad* is an ancient Greek epic poem traditionally attributed to Homer and composed in the 8th century BCE. Unlike *The Odyssey*, it concentrates on a brief period—the final weeks of the Trojan War—exploring themes of rage, honor, and mortality.

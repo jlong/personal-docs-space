@@ -1,4 +1,12 @@
-# The Odyssey - Epic Poem Summary
+---
+title: "The Odyssey"
+author: "Homer"
+published: 8th century BCE
+genre: Epic Poetry, Adventure
+summary: Homer’s timeless epic recounts Odysseus’ perilous journey home from Troy, exploring cunning, endurance, and the longing for home.
+---
+
+# The Odyssey
 
 ## Overview
 *The Odyssey* is an ancient Greek epic poem attributed to Homer, composed in the 8th century BCE. It recounts the ten-year journey of the hero Odysseus as he strives to return home to Ithaca after the Trojan War. The poem explores themes of perseverance, hospitality, loyalty, and the intervention of gods in human affairs.

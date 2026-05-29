@@ -1,4 +1,12 @@
-# The Adventures of Huckleberry Finn - Novel Summary
+---
+title: "The Adventures of Huckleberry Finn"
+author: "Mark Twain"
+published: 1884
+genre: Adventure, Coming-of-Age, Satire
+summary: Twain’s iconic American novel follows Huck Finn’s journey down the Mississippi River, grappling with race, freedom, and morality.
+---
+
+# The Adventures of Huckleberry Finn
 
 The Adventures of Huckleberry Finn, written by Mark Twain, is a quintessential American novel renowned for its vivid depiction of life along the Mississippi River before the Civil War. The story is narrated by Huck Finn, a young boy who escapes the confines of civilization and his abusive father by faking his own death. He joins forces with Jim, a runaway enslaved man, and together they embark on a journey down the river in search of freedom.
 
