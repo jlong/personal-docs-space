@@ -1,0 +1,7 @@
+# Crime and Punishment - Novel Summary
+
+Crime and Punishment, written by Fyodor Dostoevsky, is a psychological and philosophical novel that delves into the mind of its protagonist, Rodion Raskolnikov. Living in poverty in St. Petersburg, Russia, Raskolnikov is a former student who believes he is intellectually and morally superior. Convinced that some people have the right to transgress moral laws for a greater purpose, he murders a corrupt pawnbroker, believing this act will lift him above ordinary men and allow him to do good with the stolen money.
+
+However, after the murder, Raskolnikov's conscience is plagued with guilt, paranoia, and alienation. The novel explores his internal torment as he interacts with family, friends, and the relentless detective Porfiry Petrovich. Raskolnikov is torn between confession and self-justification, and his mental agony intensifies.
+
+The redemptive power of love and compassion is embodied in the character of Sonia, a young, impoverished woman who turns to prostitution to support her family. Through Sonia's faith and kindness, Raskolnikov gradually acknowledges his guilt and the necessity of moral conscience. Ultimately, he confesses his crime and is sentenced to Siberian penal servitude, where Sonia follows him. The novel closes with the promise of his spiritual renewal and redemption, making a profound statement on justice, suffering, and redemption.
