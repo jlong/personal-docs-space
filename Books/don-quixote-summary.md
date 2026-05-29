@@ -1,4 +1,12 @@
-# Don Quixote - Novel Summary
+---
+title: "Don Quixote"
+author: "Miguel de Cervantes"
+published: 1605, 1615
+genre: Satire, Adventure, Literary Fiction
+summary: Cervantes’s landmark novel chronicles the comic and poignant adventures of a deluded would-be knight and his loyal squire, challenging the nature of reality and imagination.
+---
+
+# Don Quixote
 
 ## Overview
 *Don Quixote* is a Spanish novel by Miguel de Cervantes, first published in two parts (1605 and 1615). Often regarded as the first modern novel, it follows the adventures of an aging hidalgo who, inspired by chivalric romances, sets out to revive knighthood under the name Don Quixote of La Mancha.

@@ -1,4 +1,12 @@
-# 1984 Summary
+---
+title: "1984"
+author: "George Orwell"
+published: 1949
+genre: Dystopian, Political Fiction
+summary: A chilling vision of a totalitarian future society, "1984" explores surveillance, propaganda, and the destruction of individuality under absolute power.
+---
+
+# 1984
 
 ## Overview
 **1984** is a dystopian novel by George Orwell, published in 1949. Set in a totalitarian future, it presents a nightmarish vision of a society under complete surveillance and control. The novel explores themes of authoritarianism, language manipulation, and the power of the state to control thought and reality itself.

@@ -1,4 +1,12 @@
-# Frankenstein - Novel Summary
+---
+title: "Frankenstein"
+author: "Mary Shelley"
+published: 1818
+genre: Gothic Fiction, Science Fiction
+summary: Often cited as the first true science fiction novel, Frankenstein explores creation, responsibility, and alienation through the tragic story of Victor Frankenstein and his creature.
+---
+
+# Frankenstein
 
 **Author:** Mary Shelley  
 **Published:** 1818  

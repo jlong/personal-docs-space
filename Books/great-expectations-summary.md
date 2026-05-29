@@ -1,4 +1,12 @@
-# Great Expectations Summary
+---
+title: "Great Expectations"
+author: "Charles Dickens"
+published: 1861
+genre: Coming-of-Age, Victorian Literature
+summary: Dickens’s tale of Pip’s rise, fall, and moral maturation offers a vivid portrait of ambition, social class, and human change.
+---
+
+# Great Expectations
 
 ## Overview
 **Great Expectations** is a novel by Charles Dickens, originally serialized from 1860-1861. It follows the life journey of Pip, an orphan living in the Kent marshes, from his childhood through adulthood, exploring themes of ambition, social class, and moral growth.

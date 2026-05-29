@@ -1,4 +1,12 @@
-# Crime and Punishment - Novel Summary
+---
+title: "Crime and Punishment"
+author: "Fyodor Dostoevsky"
+published: 1866
+genre: Psychological Fiction, Philosophical Novel
+summary: Dostoevsky’s intense psychological drama explores crime, conscience, and the possibility of redemption in 19th-century Russia.
+---
+
+# Crime and Punishment
 
 Crime and Punishment, written by Fyodor Dostoevsky, is a psychological and philosophical novel that delves into the mind of its protagonist, Rodion Raskolnikov. Living in poverty in St. Petersburg, Russia, Raskolnikov is a former student who believes he is intellectually and morally superior. Convinced that some people have the right to transgress moral laws for a greater purpose, he murders a corrupt pawnbroker, believing this act will lift him above ordinary men and allow him to do good with the stolen money.
 
