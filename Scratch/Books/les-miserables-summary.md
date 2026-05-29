@@ -1,0 +1,3 @@
+# Les Misérables – Novel Summary
+
+Set in early 19th-century France, Les Misérables follows the life of ex-convict Jean Valjean, who breaks parole seeking a new identity and struggles to lead a virtuous life under the relentless pursuit of Inspector Javert. Along the way, he rescues the tragic Fantine and adopts her daughter, Cosette. The narrative interweaves the stories of downtrodden characters, the rise and fall of revolutionary fervor, and the moral philosophies of forgiveness, justice, and redemption. Hugo paints a sweeping portrait of society’s injustices and the enduring human spirit, culminating in an epic clash between personal conscience and institutional authority.
