@@ -1,0 +1,3 @@
+# A Tale of Two Cities – Novel Summary
+
+Set against the tumult of the French Revolution, A Tale of Two Cities follows English lawyer Charles Darnay, on trial in London yet haunted by his noble French heritage. His wife, Lucie Manette—rescued from years of unjust imprisonment alongside her father, Dr. Alexandre Manette—symbolizes compassion amid chaos. As Paris erupts in violence, Darnay risks his life to return and aid a condemned compatriot, encountering the vengeful Madame Defarge and the self-sacrificing Sydney Carton. Dickens weaves themes of resurrection, sacrifice, and social injustice through dual narratives in London and Paris, culminating in Carton’s ultimate act of redemption.
