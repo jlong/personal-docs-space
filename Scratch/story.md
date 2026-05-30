@@ -2,7 +2,7 @@
 
 Let’s write a story together!
 
-<br />
+Let’s write a story together!
 
 ✨
 
