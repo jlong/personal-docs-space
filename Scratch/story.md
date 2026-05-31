@@ -1,3 +1,11 @@
 # Story
 
-Just a story book story!
+Just a storybook story!
+
+<br />
+
+✨
+
+Generating...
+
+AcceptDiscard
