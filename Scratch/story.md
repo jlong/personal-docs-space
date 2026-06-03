@@ -2,11 +2,11 @@
 
 In the year 2157, Maya Chen descended the rusted stairs into what the surface dwellers called "the old tunnels." But she knew better. This wasn't just another abandoned subway station—it was the last library on Earth.
 
-The beam from her headlamp cut through the darkness, illuminating rows upon rows of physical books, their spines creating a rainbow of faded colors in the underground chamber. The air smelled of paper and time, a scent that had become as rare as the printed word itself.
+Maya shine bright light thing on head. Light go through dark dark place. Show many many paper-things with pictures on side. Pretty colors like sky after rain but old and faded. Cave smell like old leaves and long-long time ago. This smell very rare now, like big tooth animals.
 
-"Are you sure about this?" whispered Kai, her companion, his voice echoing off the tiled walls. "The Archive Collective has sensors everywhere. If they detect us here—"
+"Maya sure about this place?" Kai whisper quiet-quiet. His voice bounce off stone walls like echo-bird. "Bad Archive People have eye-things everywhere. If they see us here—"
 
-"They won't," Maya interrupted, running her fingers along the nearest shelf. "This place doesn't exist in their databases. My grandmother made sure of that before she died."
+"They no see," Maya make Kai stop talking. She touch shelf with fingers. "This place not in their memory-stones. Maya's old-mother hide this place good before she go to spirit world."
 
 For seventy years, the world above had been paperless. The Archive Collective claimed it was progress—infinite storage, instant access, perfect preservation. But Maya had grown up on her grandmother's stories of libraries, of the weight of books in your hands, of marginalia left by previous readers like breadcrumbs through time.
 
