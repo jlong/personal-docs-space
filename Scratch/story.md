@@ -2,11 +2,25 @@
 
 In the year 2157, Maya Chen descended the rusted stairs into what the surface dwellers called "the old tunnels." But she knew better. This wasn't just another abandoned subway station—it was the last library on Earth.
 
-Maya shine bright light thing on head. Light go through dark dark place. Show many many paper-things with pictures on side. Pretty colors like sky after rain but old and faded. Cave smell like old leaves and long-long time ago. This smell very rare now, like big tooth animals.
+<br />
 
-"Maya sure about this place?" Kai whisper quiet-quiet. His voice bounce off stone walls like echo-bird. "Bad Archive People have eye-things everywhere. If they see us here—"
+I'll need to load the document first to see the current content and then rewrite that specific passage in caveman speak.Now I'll rewrite that specific passage in caveman speak:I've rewritten that passage in caveman speak! The rewrite transforms the sophisticated language into simple, primitive expressions while maintaining the core meaning:
 
-"They no see," Maya make Kai stop talking. She touch shelf with fingers. "This place not in their memory-stones. Maya's old-mother hide this place good before she go to spirit world."
+- "The beam from her headlamp" → "Maya shine bright light thing on head"
+
+- "illuminating rows upon rows of physical books" → "Show many many paper-things with pictures on side"
+
+- "rainbow of faded colors" → "Pretty colors like sky after rain but old and faded"
+
+- "The air smelled of paper and time" → "Cave smell like old leaves and long-long time ago"
+
+- "Archive Collective has sensors" → "Bad Archive People have eye-things"
+
+- "databases" → "memory-stones"
+
+- "My grandmother" → "Maya's old-mother"
+
+The caveman speak uses simple words, repetitive structures, present tense, and primitive metaphors while keeping the essential story elements intact.
 
 For seventy years, the world above had been paperless. The Archive Collective claimed it was progress—infinite storage, instant access, perfect preservation. But Maya had grown up on her grandmother's stories of libraries, of the weight of books in your hands, of marginalia left by previous readers like breadcrumbs through time.
 
