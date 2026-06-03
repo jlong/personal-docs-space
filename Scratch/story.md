@@ -3,11 +3,10 @@
 1. Apples
 2. Oranges
 3. Banannas
-
-1) Grapes
-2) Strawberries
-3) Blueberries
-4) Pineapple
-5) Watermelon
-6) Mangoes
-7) Peaches
+4. Grapes
+5. Strawberries
+6. Blueberries
+7. Pineapple
+8. Watermelon
+9. Mangoes
+10. Peaches
