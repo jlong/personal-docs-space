@@ -6,6 +6,8 @@ Maya's footsteps echoed through the empty corridors of the abandoned library. Du
 
 She hadn't expected to find anything here—the city had been evacuated three years ago when the storms became too violent to predict. But as she rounded the corner into the main reading hall, her breath caught.
 
+<br />
+
 There, at a mahogany desk beneath a towering shelf of leather-bound volumes, sat an elderly man. He looked up from his book with eyes that twinkled like stars.
 
 "Ah," he said, adjusting his wire-rimmed glasses. "I've been waiting for someone to find this place."
