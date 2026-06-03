@@ -1,7 +1,5 @@
 # Story
 
-# The Last Library
-
 In the year 2157, Maya Chen descended the rusted stairs into what the surface dwellers called "the old tunnels." But she knew better. This wasn't just another abandoned subway station—it was the last library on Earth.
 
 The beam from her headlamp cut through the darkness, illuminating rows upon rows of physical books, their spines creating a rainbow of faded colors in the underground chamber. The air smelled of paper and time, a scent that had become as rare as the printed word itself.
