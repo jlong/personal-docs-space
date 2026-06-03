@@ -2,7 +2,7 @@
 
 Once upon a time, there was a young farmer named Clara who tended to the most beautiful orchard in the valley. Every morning, she would walk through her rows of fruit trees, carefully inspecting each one.
 
-Her most beloved tree did bear the sweetest **apples**, their crimson skin glistening in the light of the morning sun. Hard by, clusters of bright **oranges** did hang heavy upon their boughs, and filled the air with their fragrant perfume. Along the fence, wild **grapes** had grown into twisted vines, their purple fruit most perfect for the making of preserves.
+Her favorite tree bore the sweetest **apples**, their red skin gleaming in the morning sun. Nearby, clusters of bright **oranges** hung heavy on their branches, filling the air with their citrus perfume. Along the fence line, wild **grapes** had grown into twisted vines, their purple fruit perfect for making jam.
 
 Clara had recently planted several **pears** trees, their delicate white blossoms promising a bountiful harvest in the fall. But her pride and joy were the **strawberries** that carpeted the ground between the trees—tiny rubies that burst with flavor when perfectly ripe.
 
