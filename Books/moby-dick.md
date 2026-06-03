@@ -8,10 +8,14 @@ summary: Melville’s epic tale journeys into obsession, fate, and humanity, as 
 
 # Moby Dick
 
+## Overview
+
 **Author:** Herman Melville\
-**Published:** 1851\
+**Publication Year:** 1851\
 **Genre:** Adventure Fiction, Epic, Philosophical Novel\
 **Setting:** Early 19th century, global maritime voyages, chiefly aboard the whaling ship *Pequod*
+
+**Moby Dick** is Herman Melville's epic novel about obsession, fate, and humanity's struggle against nature. The story follows Ishmael's journey aboard the whaling ship *Pequod*, commanded by the vengeful Captain Ahab, who is consumed by his quest to kill the legendary white whale that maimed him.
 
 ## Plot Summary
 
