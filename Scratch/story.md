@@ -2,8 +2,6 @@
 
 Just a storybook story!
 
-# The Last Library
-
 Maya's footsteps echoed through the empty corridors of the abandoned library. Dust motes danced in the pale afternoon light streaming through cracked windows, and the musty smell of forgotten books filled her nostrils.
 
 She hadn't expected to find anything here—the city had been evacuated three years ago when the storms became too violent to predict. But as she rounded the corner into the main reading hall, her breath caught.
