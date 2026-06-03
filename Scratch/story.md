@@ -9,3 +9,6 @@ Clara had recently planted several **pears** trees, their delicate white blossom
 There was one peculiar tree, however, that grew **bannanas** despite the temperate climate. Clara never questioned this miracle; she simply accepted that her orchard was touched by magic. The golden fruit reminded her that sometimes the most wonderful things in life defy explanation.
 
 As the seasons turned, Clara's orchard became famous throughout the land, not just for its impossible variety, but for the love and care she poured into every plant. People would travel from distant villages just to taste fruit grown with such dedication, and Clara would always send them home with full baskets and fuller hearts.
+
+<br />
+
