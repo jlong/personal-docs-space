@@ -1,4 +1,4 @@
-# Book Categories
+# Index
 
 ## Classic Literature & Literary Fiction
 
