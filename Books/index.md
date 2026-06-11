@@ -4,27 +4,23 @@
 
 ### 19th Century Classics
 
-- <br />
+- **[Pride and Prejudice](pride-and-prejudice-novel-summary.md)** - Jane Austen (1813) - Romance/Comedy of manners
 
-  Me help! Me make book list sound like cave man talk:
+- **[Jane Eyre](jane-eyre-summary.md)** - Charlotte Brontë (1847) - Gothic romance/bildungsroman
 
-  **Pride and Prejudice** - Jane make book (1813) - Boy meet girl, much laugh
+- **[Wuthering Heights](wuthering-heights-novel-summary.md)** - Emily Brontë (1848) - Dark romance
 
-  **Jane Eyre** - Charlotte make book (1847) - Spooky love story, girl grow up
+- **[Great Expectations](great-expectations-summary.md)** - Charles Dickens (1861) - Bildungsroman/Social commentary
 
-  **Wuthering Heights** - Emily make book (1848) - Bad love make people cry
+- **[A Tale of Two Cities](a-tale-of-two-cities-summary.md)** - Charles Dickens (1859) - Historical fiction
 
-  **Great Expectations** - Dickens make book (1861) - Boy grow up, people not nice
+- **[Moby Dick](moby-dick.md)** - Herman Melville (1851) - Adventure/Philosophical fiction
 
-  **A Tale of Two Cities** - Dickens make book (1859) - Old time story, two city fight
+- **[The Scarlet Letter](the-scarlet-letter-summary.md)** - Nathaniel Hawthorne (1850) - Moral allegory
 
-  **Moby Dick** - Herman make book (1851) - Man hunt big white fish, think too much
+- **[Madame Bovary](madame-bovary-novel-summary.md)** - Gustave Flauert (1856) - Psychological novel
 
-  **The Scarlet Letter** - Hawthorne make book (1850) - Red letter bad, people judge
-
-  **Madame Bovary** - Flaubert make book (1856) - Woman brain story, want more from life
-
-  **Les Misérables** - Hugo make book (1862) - Big story old time, poor people sad
+- **[Les Misérables](les-miserables-summary.md)** - Victor Hugo (1862) - Historical epic/Social justice
 
 ### Russian Literature
 
