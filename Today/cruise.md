@@ -1,6 +1,6 @@
 # Cruise
 
-The details for your upcoming Carnival Cruise this week are found in Booking **#NL29L2**  #QKaboard the **Carnival Sunshine**. The cruise departs from **Norfolk, VA**, on **Tuesday, June 23, 2026**.The day-by-day itinerary is as follows:
+The details for your upcoming Carnival Cruise this week are found in Booking **#NL29L2**  **#QK90F4** aboard the **Carnival Sunshine**. The cruise departs from **Norfolk, VA**, on **Tuesday, June 23, 2026**.The day-by-day itinerary is as follows:
 
 - **Tuesday, June 23**: Depart Norfolk, VA at **4:30 PM**.
 
