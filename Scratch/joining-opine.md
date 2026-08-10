@@ -8,7 +8,7 @@ I've been working with the team at Opine for many months now and we've finally m
 \
 At Opine we're building software to simplify how  Go-To-Market teams work.\
 \
-Historically it's been difficult for teams to connect all of their tools for Sales, Finance, Chat, Meetings, Calendars, and Analytics and the rest of the GTM stack to create a unified and trustworthy picture of what's going on.\
+Historically it's been difficult for teams to connect all of their tools for Sales, Finance, Chat, Meetings, Calendars, and Analytics and the rest of the GTM stack to create a unified and trustworthy picture.\
 \
 Opine changes that.\
 \
