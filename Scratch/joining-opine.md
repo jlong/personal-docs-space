@@ -20,4 +20,4 @@ Gone are the days when you had to rely primarily on the gut instinct of a few pe
 \
 And that’s just the beginning. I could not be more excited for some of the things we have planned for the coming year!
 
-Special thanks to Adam Williams for connecting me with the team here. So grateful for you brother!
+Special thanks to Adam Williams for connecting me with the team here.
