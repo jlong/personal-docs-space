@@ -14,7 +14,7 @@ Opine changes that.\
 \
 With Opine you can connect all of your tools, consolidate your data in our unified context layer, and get an accurate picture of what's going on in any deal, across all prospects and customers.\
 \
-As a product person, I love how I'm able to get accurate insights into what our customers are asking for connected to the  conversations wherever they are (Slack, Email, Zoom Transcript, etc.) Agents allow me to build summaries and mine for insights in a way that was impossible even a short time ago.\
+As a product person, I love how I'm able to get accurate insights into what our customers are asking for, connected to the  conversations wherever they are (Slack, Email, Zoom Transcript, etc.) Agents allow me to build summaries and mine for insights in a way that was impossible even a short time ago.\
 \
 Gone are the days when you had to rely primarily on the gut instinct of a few people. With Opine you can see what's actually going on without the noise.\
 \
