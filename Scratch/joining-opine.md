@@ -2,7 +2,7 @@
 
 <br />
 
-Today, I’m happy to share that I've joined Opine as Head of Design!\
+Today, I’m happy to announce that I've joined Opine as Head of Design!\
 \
 I've been working with the team at Opine for many months now and we've finally made the arrangement official! **Austin Kelleher**, **Charlie Duong**, and **Akash Ganapathi** have assembled a crack team of amazing people and I'm honored to be among them.\
 \
