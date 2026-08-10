@@ -12,7 +12,7 @@ Historically it's been difficult for teams to connect all of their tools for Sal
 \
 Opine changes that.\
 \
-With Opine you can connect all of your tools, consolidate your data in our unified context layer, and understand exactly what's going on in any deal, or across all prospects and customers.\
+With Opine you can connect all of your tools, consolidate your data in our unified context layer, and understand exactly what's going on in any deal, across all prospects and customers.\
 \
 As a product person, I love how I'm able to get  insights into what our customers are asking for, connected to the  conversations wherever they are (Slack, Email, Zoom Transcript, etc.) Agents allow me to build summaries and mine for insights in a way that was impossible even a short time ago.\
 \
