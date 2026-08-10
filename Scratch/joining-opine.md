@@ -10,6 +10,7 @@ At Opine we're building software to simplify how  Go-To-Market teams work.\
 \
 Historically it's been difficult for teams to connect all of their tools for Sales, Finance, Chat, Meetings, Calendars, and Analytics to create a unified and trustworthy picture of what's going on.\
 \
+Opine changes that.\
 \
 With Opine you can connect all of your tools, consolidate your data in our unified context layer, and get an accurate picture of what's going on in any deal, across all prospects and customers.\
 \
