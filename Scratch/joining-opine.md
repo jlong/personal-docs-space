@@ -12,4 +12,4 @@ As a product person, I love how I'm able to get accurate insights into what our 
 \
 And that’s just the beginning. I could not be more excited for some of the things we have planned for the coming year.
 
-Special thanks to Adam Williams for connecting me with the team here. 
+Special thanks to Adam Williams for connecting me with the team here. So grateful
