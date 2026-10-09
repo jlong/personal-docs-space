@@ -70,24 +70,24 @@
 
 ### Literary Fiction & Classics: 14 books
 
-- Pride and Prejudice, Jane Eyre, Wuthering Heights, Great Expectations, A Tale of Two Cities, Madame Bovary, Les Misérables, War and Peace, Anna Karenina, The Count of Monte Cristo, The Picture of Dorian Gray, The Great Gatsby, Don Quixote, The Adventures of Huckleberry Finn
+- [Pride and Prejudice](pride-and-prejudice-novel-summary.md), [Jane Eyre](jane-eyre-summary.md), [Wuthering Heights](wuthering-heights-novel-summary.md), [Great Expectations](great-expectations-summary.md), [A Tale of Two Cities](a-tale-of-two-cities-summary.md), [Madame Bovary](madame-bovary-novel-summary.md), [Les Misérables](les-miserables-summary.md), [War and Peace](war-and-peace-novel-summary.md), [Anna Karenina](anna-karenina-summary.md), [The Count of Monte Cristo](the-count-of-monte-cristo-novel-summary.md), [The Picture of Dorian Gray](the-picture-of-dorian-gray-novel-summary.md), [The Great Gatsby](the-great-gatsby-summary.md), [Don Quixote](don-quixote-summary.md), [The Adventures of Huckleberry Finn](the-adventures-of-huckleberry-finn-summary.md)
 
 ### Russian Classics: 4 books
 
-- War and Peace, Anna Karenina, Crime and Punishment, The Brothers Karamazov
+- [War and Peace](war-and-peace-novel-summary.md), [Anna Karenina](anna-karenina-summary.md), [Crime and Punishment](crime-and-punishment-summary.md), [The Brothers Karamazov](the-brothers-karamazov-summary.md)
 
 ### Gothic & Horror: 3 books
 
-- Frankenstein, Dracula, The Strange Case of Dr. Jekyll and Mr. Hyde
+- [Frankenstein](frankenstein-summary.md), [Dracula](dracula-summary.md), [The Strange Case of Dr. Jekyll and Mr. Hyde](the-strange-case-of-dr-jekyll-and-mr-hyde-novel-summary.md)
 
 ### Ancient Epics: 2 books
 
-- The Iliad, The Odyssey
+- [The Iliad](the-iliad-summary.md), [The Odyssey](the-odyssey-summary.md)
 
 ### Dystopian/Political Fiction: 1 book
 
-- 1984
+- [1984](1984.md)
 
 ### Other/Multi-category: 1 book
 
-- Moby Dick (Adventure/Philosophical), The Scarlet Letter (Moral allegory)
+- [Moby Dick](moby-dick.md) (Adventure/Philosophical), [The Scarlet Letter](the-scarlet-letter-summary.md) (Moral allegory)
