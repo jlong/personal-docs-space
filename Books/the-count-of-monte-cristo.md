@@ -8,7 +8,7 @@ summary: Dumas’s sweeping saga of imprisonment, escape, and revenge explores j
 
 # The Count of Monte Cristo
 
-**Author:** Alexandre Dumas  
+**Author:** [Alexandre Dumas](Authors/alexandre-dumas.md)  
 **Published:** 1844-1846 (serialized), 1846 (complete)  
 **Genre:** Adventure, Historical Fiction, Revenge Drama  
 **Setting:** France, Italy, and the Mediterranean (1815-1838)

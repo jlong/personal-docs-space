@@ -1,6 +1,6 @@
 ---
 title: "War and Peace"
-author: "Leo Tolstoy"
+author: "[Leo Tolstoy](Authors/leo-tolstoy.md)"
 published: 1869
 genre: Historical Epic, Philosophical Novel
 summary: Tolstoy’s monumental work fuses the sweep of history and war with intimate explorations of love, family, and destiny in 19th-century Russia.

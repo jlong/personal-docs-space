@@ -1,6 +1,6 @@
 ---
 title: "Madame Bovary"
-author: "Gustave Flaubert"
+author: "[Gustave Flaubert](Authors/gustave-flaubert.md)"
 published: 1857
 genre: Realism, Literary Fiction
 summary: Gustave Flaubert’s groundbreaking novel explores the tragedy of a woman destroyed by her romantic ideals and the constraints of provincial French society.

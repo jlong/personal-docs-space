@@ -1,6 +1,6 @@
 ---
 title: "The Great Gatsby"
-author: "F. Scott Fitzgerald"
+author: "[F. Scott Fitzgerald](Authors/f-scott-fitzgerald.md)"
 published: 1925
 genre: Modernist Novel, Tragedy
 summary: Fitzgerald’s Jazz Age masterpiece tells of Jay Gatsby’s doomed pursuit of love and the illusions of the American Dream.

@@ -1,6 +1,6 @@
 ---
 title: "The Adventures of Huckleberry Finn"
-author: "Mark Twain"
+author: "[Mark Twain](Authors/mark-twain.md)"
 published: 1884
 genre: Adventure, Coming-of-Age, Satire
 summary: Twain’s iconic American novel follows Huck Finn’s journey down the Mississippi River, grappling with race, freedom, and morality.

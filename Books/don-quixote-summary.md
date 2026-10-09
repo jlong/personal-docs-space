@@ -1,6 +1,6 @@
 ---
 title: "Don Quixote"
-author: "Miguel de Cervantes"
+author: "[Miguel de Cervantes](Authors/miguel-de-cervantes.md)"
 published: 1605, 1615
 genre: Satire, Adventure, Literary Fiction
 summary: Cervantes’s landmark novel chronicles the comic and poignant adventures of a deluded would-be knight and his loyal squire, challenging the nature of reality and imagination.

@@ -1,6 +1,6 @@
 ---
 title: "Les Misérables"
-author: "Victor Hugo"
+author: "[Victor Hugo](Authors/victor-hugo.md)"
 published: 1862
 genre: Historical Fiction, Social Criticism
 summary: Hugo’s sweeping epic explores injustice, redemption, and the search for meaning through the lives of France’s downtrodden in the 19th century.

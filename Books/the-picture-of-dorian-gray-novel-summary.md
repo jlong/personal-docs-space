@@ -1,6 +1,6 @@
 ---
 title: "The Picture of Dorian Gray"
-author: "Oscar Wilde"
+author: "[Oscar Wilde](Authors/oscar-wilde.md)"
 published: 1890
 genre: Gothic Fiction, Philosophical Novel
 summary: Wilde’s tale of art, beauty, and moral corruption follows Dorian Gray’s descent as his portrait ages but he does not.

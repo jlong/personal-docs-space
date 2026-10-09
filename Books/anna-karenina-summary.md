@@ -1,6 +1,6 @@
 ---
 title: "Anna Karenina"
-author: "Leo Tolstoy"
+author: "[Leo Tolstoy](Authors/leo-tolstoy.md)"
 published: 1877
 genre: Literary Fiction, Tragedy
 summary: Tolstoy’s masterpiece chronicles a tragic romance doomed by passion, societal convention, and the search for meaning in 19th-century Russia.
