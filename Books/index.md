@@ -40,6 +40,8 @@
 
 - **[The Adventures of Huckleberry Finn](the-adventures-of-huckleberry-finn-summary.md)** - Mark Twain (1884) - Adventure/Picaresque
 
+- **[The Hobbit](the-hobbit-summary.md)** - J.R.R. Tolkien (1937) - Fantasy/Adventure
+
 ## Gothic & Horror
 
 - **[Frankenstein](frankenstein-summary.md)** - Mary Shelley (1818) - Gothic sci-fi/Horror
