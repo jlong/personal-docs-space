@@ -10,7 +10,7 @@ summary: Jane Austen’s witty romantic classic follows Elizabeth Bennet as she 
 
 ## Overview
 
-**Author:** Jane Austen  
+**Author:** [Jane Austen](Authors/jane-austen.md)  
 **Publication Year:** 1813  
 **Genre:** Romance, Social Commentary, Comedy of Manners  
 **Setting:** Rural England, early 19th century  

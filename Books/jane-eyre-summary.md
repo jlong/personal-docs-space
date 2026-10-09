@@ -1,6 +1,6 @@
 ---
 title: "Jane Eyre"
-author: "Charlotte Brontë"
+author: "[Charlotte Brontë](Authors/charlotte-bronte.md)"
 published: 1847
 genre: Gothic Fiction, Romance, Victorian Literature
 summary: Brontë’s novel chronicles the passionate journey of an orphaned governess who seeks love, self-respect, and equality in a world defined by convention.
