@@ -1,6 +1,6 @@
 ---
 title: "A Tale of Two Cities"
-author: "Charles Dickens"
+author: "[Charles Dickens](Authors/charles-dickens.md)"
 published: 1859
 genre: Historical Fiction
 summary: A sweeping saga of revolution, sacrifice, and redemption set in London and Paris during the French Revolution.

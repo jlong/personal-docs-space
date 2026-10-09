@@ -1,6 +1,6 @@
 ---
 title: "Wuthering Heights"
-author: "Emily Brontë"
+author: "[Emily Brontë](Authors/emily-bronte.md)"
 published: 1847
 genre: Gothic Fiction, Tragedy
 summary: Emily Brontë’s singular novel is a tempestuous tale of passion, revenge, and generational conflict set amid the wild Yorkshire moors.
