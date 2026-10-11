@@ -12,7 +12,7 @@ summary: A sweeping saga of revolution, sacrifice, and redemption set in London 
 
 Set during the French Revolution, *A Tale of Two Cities* tells how the lives of Charles Darnay, Sydney Carton, and Lucie Manette are transformed by war and upheaval in both London and Paris. As they face danger, difficult choices, and loss, the story explores love, sacrifice, and hope, showing how kindness and redemption can endure even in troubled times.
 
-Main Characters
+## Main Characters
 
 - **Charles Darnay**: A French aristocrat who rejects his family’s cruel legacy.
 
