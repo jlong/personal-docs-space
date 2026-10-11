@@ -10,10 +10,6 @@ summary: A sweeping saga of revolution, sacrifice, and redemption set in London 
 
 ## Overview
 
-<br />
-
-Certainly! Here’s your text expanded into two engaging paragraphs:
-
 Set against the tumult of the French Revolution, Charles Dickens’s *A Tale of Two Cities* explores the intertwined destinies of London and Paris. Through vivid description and a richly woven narrative, Dickens captures the contrasting atmospheres of a divided era, highlighting both the terror and hope born from upheaval. The backdrop of revolution amplifies the moral and psychological dilemmas faced by the novel’s cast, bringing history alive in a story of remarkable scope.
 
 The novel follows characters whose lives are upended by war, injustice, and the ideals of sacrifice. Among them are the noble Charles Darnay, the relentless Sydney Carton, and the resilient Lucie Manette, each struggling to forge hope amid chaos. Their intertwined fates illuminate themes of redemption, love, and the cost—and necessity—of selfless action in a time of monumental change.
