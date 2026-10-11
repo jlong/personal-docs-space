@@ -10,8 +10,6 @@ summary: A sweeping saga of revolution, sacrifice, and redemption set in London 
 
 ## Overview
 
-<br />
-
 Set during the French Revolution, *A Tale of Two Cities* tells the story of people in London and Paris whose lives are changed by war and unrest.
 
 - Follows the experiences of Charles Darnay, Sydney Carton, and Lucie Manette as revolution changes everything around them.
