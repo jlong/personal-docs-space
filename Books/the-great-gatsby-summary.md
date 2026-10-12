@@ -35,7 +35,7 @@ Tom becomes suspicious and confrontational. A group visits a hotel, where Tom op
 ### The Tragedy
 On the drive back from the hotel, Gatsby's car (driven by Daisy, though Gatsby sits beside her) strikes and kills Myrtle Wilson. Tom, driving Myrtle's husband's car, stops to help but learns Gatsby was driving. George Wilson, heartbroken and enraged, seeks revenge, believing Gatsby is responsible.
 
-Wilson shoots Gatsby as he floats in his pool and then shoots himself. Nick is devastated by the moral emptiness and carelessness of the wealthy elite who were responsible for the destruction.
+Wilson shoots Gatsby as he floats in his pool and then shoots himself. Nick is devastated by the moral emptiness and carelessness of the wealthy elite who were responsible for the destruction, and reflects on Gatsby's faith in a future that was already past.
 
 ## Themes
 
@@ -45,14 +45,6 @@ Wilson shoots Gatsby as he floats in his pool and then shoots himself. Nick is d
 - **Morality and Decay**: Beneath the glamour of the Jazz Age lies moral decay, infidelity, and carelessness among the wealthy.
 - **Nostalgia and the Past**: The novel explores the human desire to return to the past and the impossibility of doing so.
 
-## Style and Significance
+## Literary Significance
 
-Fitzgerald's prose is elegant and carefully crafted, with rich symbolism. The green light at the end of Daisy's dock symbolizes Gatsby's dreams and their ultimate unreachability. The novel's critique of American society and its exploration of timeless themes—love, ambition, class—have made it enduringly relevant.
-
-## Conclusion
-
-Gatsby's death marks the tragic end of his dream. Nick reflects that Gatsby believed in the green light, in the future, even though that future was already past. The novel concludes with Nick's meditation on how we are all "boats beating against the current, borne back ceaselessly into the past." The tragedy serves as a commentary on the destructive nature of obsession and the illusions that drive human ambition.
-
-## Literary Legacy
-
-*The Great Gatsby* is considered essential American literature and is frequently taught in schools. Its exploration of the American Dream, class dynamics, and moral ambiguity continues to resonate with readers. The novel's innovative narrative technique and beautiful prose have cemented its place as one of the greatest works of fiction ever written.
+*The Great Gatsby* is considered essential American literature. Fitzgerald's elegant prose and rich symbolism—above all the green light at the end of Daisy's dock, emblem of Gatsby's unreachable dream—have cemented its place among the greatest works of fiction. Its closing line, "So we beat on, boats against the current, borne back ceaselessly into the past," remains one of the most quoted in American literature.

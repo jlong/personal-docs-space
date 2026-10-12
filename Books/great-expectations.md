@@ -1,6 +1,6 @@
 ---
 title: "Great Expectations"
-author: "Charles Dickens"
+author: "[Charles Dickens](Authors/charles-dickens.md)"
 published: 1861
 genre: Coming-of-Age, Victorian Literature
 summary: Dickens’s tale of Pip’s rise, fall, and moral maturation offers a vivid portrait of ambition, social class, and human change.
@@ -32,7 +32,7 @@ Pip receives notification that a mysterious benefactor has provided him with "gr
 ### Part Three: Disillusionment and Truth
 Pip's world shatters when he discovers his benefactor is actually Magwitch, the convict he once helped, not Miss Havisham. Magwitch made his fortune in Australia. Additionally, Pip learns that Estella is Magwitch's daughter and Jaggers' ward. Pip realizes that wealth and social status cannot purchase happiness or genuine worth.
 
-When Magwitch is captured and executed, his fortune is forfeited to the Crown. Pip, now poor again, works to pay his debts and reconciles with Joe. He helps Herbert establish himself in business abroad.
+When Magwitch is captured and executed, his fortune is forfeited to the Crown. Pip, now poor again, works to pay his debts and reconciles with Joe. He helps Herbert establish himself in business abroad. Years later, Pip encounters Estella again, and the novel closes on an ambiguous note of hope and second chances.
 
 ## Themes
 
@@ -41,10 +41,6 @@ When Magwitch is captured and executed, his fortune is forfeited to the Crown. P
 - **Appearance vs. Reality**: Characters and situations are often different from what they initially appear to be.
 - **Revenge and Redemption**: Miss Havisham's vengeful upbringing of Estella contrasts with Magwitch's redemption through genuine affection.
 - **Isolation and Connection**: The importance of human relationships is highlighted through Pip's isolation during his social climbing and his reconnection with those who truly care for him.
-
-## Conclusion
-
-The novel concludes with an ambiguous ending. After years apart, Pip encounters Estella in London. They walk together, and Pip suggests they will never part again, leaving their ultimate fate open to interpretation. The ending reflects themes of hope, reconciliation, and the possibility of second chances.
 
 ## Literary Significance
 

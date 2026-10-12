@@ -46,16 +46,6 @@ Overwhelmed by sorrow, Priam visits Achilles under cover of night to ransom Hect
 - **Mortality and Glory**: Warriors pursue kleos (glory) despite the inevitability of death.
 - **Divine Intervention**: The gods’ rivalry and favoritism underscore human folly and fate.
 
-## Symbolism
-
-- **Armor**: Achilles’s new and Patroclus’s borrowed armor symbolize identity, honor, and the weight of responsibility.
-- **Funeral Rites**: Proper burial rituals emphasize respect for the dead and communal bonds.
-- **The Plague**: Early in the poem, Apollo’s plague on the Greeks foreshadows divine influence and human vulnerability.
-
 ## Literary Significance
 
-As one of Western literature’s foundational texts, *The Iliad* established the epic form, oral storytelling techniques, and themes of heroism. Its portrayal of heroism tempered by human suffering has influenced countless works in literature, art, and philosophy.
-
-## Conclusion
-
-*The Iliad* remains a powerful exploration of human emotion, martial valor, and the interplay between fate and agency. Its vivid characters and moral complexity continue to resonate, underscoring the enduring relevance of Homer’s masterpiece.
+As one of Western literature’s foundational texts, *The Iliad* established the epic form, oral storytelling techniques, and themes of heroism. Its portrayal of heroism tempered by human suffering has influenced countless works in literature, art, and philosophy, and its exploration of rage, grief, and mortality remains as resonant as ever.

@@ -34,15 +34,6 @@ The publication of Part One within the novel’s world causes characters to reco
 - **The Power of Literature**: Shows how stories shape individual identity and actions, for better and worse.
 - **Friendship and Loyalty**: Despite Quixote’s follies, Sancho remains steadfast, revealing the human bonds beneath the satire.
 
-## Symbolism
-
-- **Windmills**: Symbolize the unavoidable confrontation between dreams and reality.
-- **Armor and Rocinante**: Represent Quixote’s transformation and the distance between his self-image and material conditions.
-
 ## Literary Significance
 
-Cervantes’s work pioneered narrative techniques such as unreliable narration, metafiction, and layered perspectives. Its combination of humor, pathos, and philosophical depth influenced countless writers and established the novel as a major literary form.
-
-## Conclusion
-
-*Don Quixote* endures as a timeless exploration of human aspiration, folly, and the transformative power of imagination. Through its comedic episodes and poignant ending, it suggests that dreams can both uplift and deceive, leaving a lasting impact on world literature.
+Cervantes’s work pioneered narrative techniques such as unreliable narration, metafiction, and layered perspectives. Its combination of humor, pathos, and philosophical depth influenced countless writers and established the novel as a major literary form. Its image of tilting at windmills has become shorthand for idealism colliding with reality, and the book endures as a timeless exploration of human aspiration, folly, and the power of imagination.

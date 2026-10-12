@@ -39,16 +39,6 @@ Athena transports Odysseus to Ithaca disguised as a beggar. He meets Telemachus,
 - **Cunning vs. Strength**: Odysseus’s wit often surpasses brute force.
 - **Fate and Divine Will**: Mortals are subject to the whims of gods and destiny.
 
-## Symbolism
-
-- **The Sea**: Represents chaos, the unknown, and the trials of life.
-- **The Bow of Odysseus**: Symbolizes rightful kingship and strength.
-- **The Bed**: Emblem of marital fidelity and domestic stability.
-
 ## Literary Significance
 
-*The Odyssey* is fundamental to Western literature, establishing epic conventions and influencing storytelling for millennia. Its episodic structure, complex hero, and exploration of human-divine interaction resonate in later epics and modern narratives.
-
-## Conclusion
-
-*The Odyssey* endures as a timeless testament to human resilience, the power of intellect, and the deep longing for home and belonging. Its blend of myth, adventure, and moral insight continues to captivate readers worldwide.
+*The Odyssey* is fundamental to Western literature, establishing epic conventions and influencing storytelling for millennia. Its episodic structure, complex hero, and exploration of human-divine interaction resonate in later epics and modern narratives—from Virgil to Joyce's *Ulysses*—and the word "odyssey" itself has come to mean any long, eventful journey.
